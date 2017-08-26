@@ -18,7 +18,9 @@ In this module system, modules are built by the children themselves. A module ca
 
 ![](/assets/speakermod.JPG)
 
-No soldering required
+### No soldering required
+
+
 
 ## Reference
 
