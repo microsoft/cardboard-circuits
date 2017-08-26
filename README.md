@@ -6,7 +6,7 @@ Cardboard circuits is electronic module system that allows kids to build circuit
 
 ### ![](/assets/threewayswitch.jpg)
 
-### Destroying gives context
+### Destroying provides Context
 
 As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extacted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interrest is peaked and they understand why such component is important.
 
