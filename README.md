@@ -10,7 +10,7 @@ Cardboard circuits is electronic module system that allows kids to build circuit
 
 As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extacted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interrest is peaked and they understand why such component is important.
 
-![](/assets/IMG_5061.JPG)
+![](/assets/toydeconstruction.JPG)
 
 ### Built by kids for kids
 
@@ -29,6 +29,12 @@ A module can be large, small, round, square, blue, red, or in a unicorn shape as
 Connections between modules are made via crocodile clips and binder clips. Using a bit of aluminium foil, a binder clip and hot glue, kids are able to manufacture their own connection -- without having to learn soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
 ![](/assets/multipledevices.JPG)
+
+### Microcontrollers welcome
+
+Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
+
+![](/assets/microbitservo.JPG)
 
 ## Reference
 
