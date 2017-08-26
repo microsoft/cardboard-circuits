@@ -8,6 +8,22 @@ Cardboard circuits is electronic module system that allows kids to build circuit
 
 As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extacted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interrest is peaked and they understand why such component is important.
 
+![](/assets/IMG_5061.JPG)
+
+### Built kids for kids
+
+In this module system, modules are built by the children themselves. A switch module can be large, small, round, square, blue, red, or in a unicorn shape as long as it behaves as a switch. Kids will naturally build modules to their taste, modules that have the right size for their hands, modules that have their favorite colors, modules that they want to reuse and can relate to.
+
+
+
+![](/assets/speakermod.JPG)
+
+
+
+
+
+
+
 ## Reference
 
 Tinkering Studio Circuit Boards - [https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit\_boards.pdf](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)
