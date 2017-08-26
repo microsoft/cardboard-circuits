@@ -20,7 +20,9 @@ In this module system, modules are built by the children themselves. A module ca
 
 ### No soldering required
 
-## 
+Card
+
+## ![](/assets/switch.JPG)
 
 ## Reference
 
