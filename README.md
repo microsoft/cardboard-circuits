@@ -12,17 +12,9 @@ As kids source the electronic parts from existing toys and machines, it gives an
 
 ### Built kids for kids
 
-In this module system, modules are built by the children themselves. A switch module can be large, small, round, square, blue, red, or in a unicorn shape as long as it behaves as a switch. Kids will naturally build modules to their taste, modules that have the right size for their hands, modules that have their favorite colors, modules that they want to reuse and can relate to.
-
-
+In this module system, modules are built by the children themselves. A module can be large, small, round, square, blue, red, or in a unicorn shape as long as its electronic functionality works as expected: a switch is a switch even if it is covered with sparkling glue. Kids will naturally build modules to their taste, modules that have the right size for their hands, modules that have their favorite colors, modules that they want to reuse and can relate to.
 
 ![](/assets/speakermod.JPG)
-
-
-
-
-
-
 
 ## Reference
 
