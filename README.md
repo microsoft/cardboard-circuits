@@ -4,7 +4,9 @@
 
 Cardboard circuits is electronic module system that allows kids to build circuits. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips \(no soldering required\).
 
-![](/assets/threewayswitch.jpg)
+### ![](/assets/threewayswitch.jpg)Destroying gives context
+
+As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extacted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interrest is peaked and they understand why such component is important.
 
 ## Reference
 
