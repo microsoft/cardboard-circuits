@@ -12,5 +12,7 @@ Tinkering Studio Circuit Boards - [https://tinkering.exploratorium.edu/sites/def
 
 Tinkering Studio Toy Deconstruction - [https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy\_take\_apart\_0.pdf](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)
 
+Pacific Science Center Tinker Tank - https://www.pacificsciencecenter.org/tinker-tank/ 
+
 Instructables - Build a Simple Circuit From a Pizza Box - [http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/](http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/)
 
