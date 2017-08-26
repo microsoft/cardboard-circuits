@@ -18,6 +18,8 @@ In this module system, modules are built by the children themselves. A module ca
 
 ![](/assets/speakermod.JPG)
 
+No soldering required
+
 ## Reference
 
 Tinkering Studio Circuit Boards - [https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit\_boards.pdf](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)
