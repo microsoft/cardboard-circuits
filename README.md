@@ -1,5 +1,7 @@
 # Cardboard Circuits
 
+WORK IN PROGRESS
+
 ## A DYI electronic module system for kids.
 
 Cardboard circuits is electronic module system that allows kids to build circuits. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips.
@@ -35,6 +37,14 @@ Connections between modules are made via crocodile clips and binder clips. Using
 Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
 
 ![](/assets/microbitservo.JPG)
+
+### Safety first
+
+Cardboard circuits recipes provides clear instructions on how to protect circuits from accidental (and common) shorting, overloading or other misuses.
+
+### Testing, testing, testing
+
+As kids build their own modules, they are constantly encourage to test their circuits. Testing and validating a module is cornerstone of the approach. As a side effect, the students build a robust mental model of the components they are working with.
 
 ## Reference
 
