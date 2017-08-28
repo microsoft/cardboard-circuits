@@ -30,7 +30,7 @@ A module can be large, small, round, square, blue, red, or in a unicorn shape as
 
 Connections between modules are made via crocodile clips and binder clips. Using a bit of aluminium foil, a binder clip and hot glue, kids are able to manufacture their own connection -- without having to learn soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
-![](/assets/bindercable.JPG)
+![](/assets/threewayswitch.JPG)
 
 ### Microcontrollers welcome
 
@@ -57,7 +57,30 @@ cardboard, binder clips and hot glue.
 
 ### Cable to binder clip
 
-### Paper clip to binder clip
+This is the most common connection between an electrical cable and a binder clip.
+The springness of the binder clip arm is used to create a reliable connection with the cable without having to solder.
+
+![](/assets/bindercable.JPG)
+
+The basic version of this connection is to cramp the trimmed cable end under the binder clip arm.
+
+If the cable is too thin, start by gluing Aluminium foil on the binder clip to create a better connection.
+
+You can optionally add rubber bands to improve the connection on the connector.
+
+Secure the connection with hot glue. Be generous, it will prevent the cable from being ripped out.
+
+#### Tips and tricks
+
+* Test all your connection before gluing them. Be generous with glue.
+* Use colored markers to describe the purpose of each connector.
+* Trimming a cable with a cable cutter can be very trickly... and lead to no more cables! We highly recommend getting cable trimmers which make this operation seamless for kids.
+* Thicker cables can be attached without Aluminium foil. Trial and error is generally the best way to determine if you can skip that step.
+* Rubber bands can be used to strengthen the connection and ensure it does not get ripped out.
+
+### Metal ring to binder clip
+
+Some component may not have cables but have metal rings. Potentiometers or the micro:bit are example of those. 
 
 ### Paper fasterners
 
