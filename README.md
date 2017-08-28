@@ -30,7 +30,7 @@ A module can be large, small, round, square, blue, red, or in a unicorn shape as
 
 Connections between modules are made via crocodile clips and binder clips. Using a bit of aluminium foil, a binder clip and hot glue, kids are able to manufacture their own connection -- without having to learn soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
-![](/assets/multipledevices.JPG)
+![](/assets/bindercable.JPG)
 
 ### Microcontrollers welcome
 
@@ -45,6 +45,37 @@ Cardboard circuits recipes provides clear instructions on how to protect circuit
 ### Testing, testing, testing
 
 As kids build their own modules, they are constantly encourage to test their circuits. Testing and validating a module is cornerstone of the approach. As a side effect, the students build a robust mental model of the components they are working with.
+
+### Acknowledgments
+
+A special thanks for the Tinker Tank team at the Pacific Science Center in Seattle. 
+
+## Connectors
+
+Cardboard circuits are made of materials easily found in classrooms:
+cardboard, binder clips and hot glue.
+
+### Cable to binder clip
+
+### Paper clip to binder clip
+
+### Paper fasterners
+
+## Modules
+
+### Power
+
+### LED
+
+### Switch
+
+### Potentiometer
+
+### DC motor
+
+### Microcontroller
+
+### DC motor controller
 
 ## Reference
 
