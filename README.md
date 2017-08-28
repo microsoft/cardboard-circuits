@@ -60,7 +60,7 @@ cardboard, binder clips and hot glue.
 This is the most common connection between an electrical cable and a binder clip.
 The springness of the binder clip arm is used to create a reliable connection with the cable without having to solder.
 
-![](/assets/bindercable.JPG)
+![](/assets/bindercable.jpg)
 
 The basic version of this connection is to cramp the trimmed cable end under the binder clip arm.
 
