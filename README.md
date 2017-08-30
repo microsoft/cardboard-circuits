@@ -30,7 +30,7 @@ A module can be large, small, round, square, blue, red, or in a unicorn shape as
 
 Connections between modules are made via crocodile clips and binder clips. Using a bit of aluminium foil, a binder clip and hot glue, kids are able to manufacture their own connection -- without having to learn soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
-![](/assets/threewayswitch.JPG)
+![](/assets/switchbare.jpg)
 
 ### Microcontrollers welcome
 
