@@ -32,6 +32,13 @@ Connections between modules are made via crocodile clips and binder clips. Using
 
 ![](/assets/switchbare.jpg)
 
+### Read (and write) the manual!
+
+Kids use the cardboard to down a manual of the component
+they just built.
+
+![](/assets/racarmodule.jpg)
+
 ### Microcontrollers welcome
 
 Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
@@ -83,6 +90,8 @@ If the cable is too thin on step 2, add a layer of Aluminium foil between the bi
 Use a multi-meter or a connection tester to make sure that your connection
 works... before adding glue!
 
+![](/assets/bindercliptesting.jpg)
+
 #### Step 4: Glue it all
 
 ![](/assets/binderclipglue.jpg)
@@ -92,6 +101,10 @@ works... before adding glue!
 You can optionally add rubber bands to improve the connection on the connector.
 
 ![](/assets/binderclipband.jpg)
+
+You can run the rubber accross the module when positioning the clips on opposite sides of the board.
+
+![](/assets/bindercliprubberback.jpg)
 
 #### Tips and tricks
 
