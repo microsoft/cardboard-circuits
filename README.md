@@ -1,6 +1,9 @@
 # Cardboard Circuits
 
-WORK IN PROGRESS
+# WORK IN PROGRESS
+# WORK IN PROGRESS
+# WORK IN PROGRESS
+# WORK IN PROGRESS
 
 ## A DYI electronic module system for tinkerers.
 
