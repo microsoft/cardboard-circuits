@@ -60,15 +60,38 @@ cardboard, binder clips and hot glue.
 This is the most common connection between an electrical cable and a binder clip.
 The springness of the binder clip arm is used to create a reliable connection with the cable without having to solder.
 
-![](/assets/bindercable.jpg)
+#### Step 1: Attach the binder clip
 
-The basic version of this connection is to cramp the trimmed cable end under the binder clip arm.
+Position the binder clip to the side of the cardobard
 
-If the cable is too thin, start by gluing Aluminium foil on the binder clip to create a better connection.
+![](/assets/binderclipattach.jpg)
+
+#### Step 2: Clamp the cable
+
+Lift the binder clip arm and clamp the cable under it.
+
+![](/assets/binderclipcable.jpg)
+
+##### Cable too thin?: Add foil
+
+If the cable is too thin on step 2, add a layer of Aluminium foil between the binder and the binder arm.
+
+![](/assets/binderclipfoilcable.jpg)
+
+#### Step 3: Testing!
+
+Use a multi-meter or a connection tester to make sure that your connection
+works... before adding glue!
+
+#### Step 4: Glue it all
+
+![](/assets/binderclipglue.jpg)
+
+### (Optional) Step 5: Add rubber bands
 
 You can optionally add rubber bands to improve the connection on the connector.
 
-Secure the connection with hot glue. Be generous, it will prevent the cable from being ripped out.
+![](/assets/binderclipband.jpg)
 
 #### Tips and tricks
 
@@ -84,13 +107,46 @@ Some component may not have cables but have metal rings. Potentiometers or the m
 
 ### Paper fasterners
 
+Paper fasteners allow to cramp on metal legs from resistors, diodes and other electronic components. They are very useful to create a small ad-hoc circuit involving resistors or LEDs.
+
 ## Modules
 
 ### Power
 
-### LED
+The modules assume that a 5V DC electrical power is available.
+3 AA batteries, 4 recheargable AA or any USB power brick will do.
+
+* Use a black and red marker to clearly mark the ground 
+and positive connectors on the module.
+
+#### USB power pack
+
+USB power packs are fairly inexpensive and easy to charge,
+which makes them a great choice to build circuits.
+In order to tap in the 5V power, you will need to cut open 
+a USB cable and connect the ground/positive cables to binder clip
+connections.
+
+TODO
+
+#### Short protection with fuses
+
+It is likely that the kids will create shorted circuits
+which can damage dramatically the batteries.
+
+To protect your power module, 
+add a reversible fuse to the circuit. The fuse will heat up 
+when too much current is flowing and will eventually "pop". Once it cools down, it will work again. Since the fuse gets hot, you'll need to build a heat barrier with Aluminium foil.
+
+TODO
 
 ### Switch
+
+Most electronic toys have a switch that can be harvested.
+
+![](/assets/switch.JPG)
+
+### LED
 
 ### Potentiometer
 
@@ -99,6 +155,10 @@ Some component may not have cables but have metal rings. Potentiometers or the m
 ### Microcontroller
 
 ### DC motor controller
+
+### More modules
+
+There are some many other eletronic components out there and this guide is not meant to be exhaustive. Be creative, curious, read up on the components you find and tell us what you were able to build!
 
 ## Reference
 
