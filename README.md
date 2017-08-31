@@ -140,17 +140,16 @@ connections.
 
 Some battery packs automatically shut down when no current is drawn, so this solution might not work for low current makes. In most cases, if a motor is involved, you won't face that problem!
 
-* Using a cable current, cut open a micro-USB cable.
+* Using a wire cutter, cut open a USB cable.
 * Trim the red and black cables and cut out the rest of the cables.
+
+![Trimmed cables in a USB cable](/assets/usbcables.jpg)
+
 * Connect the cables using cable-binders connection.
 * Mark each connection with their polarity using a marker. Use the correct color, it helps!
 * Glue the battery to the cardboard to finish the module
 
-### ~ hint
-
-You can find USB recharing stations to recharge multiple battery packs at once.
-
-### ~
+![A USB power pack module](/assets/usbpower2.jpg)
 
 #### AA or AAA Battery packs
 
@@ -163,9 +162,18 @@ It is likely that the kids will create shorted circuits. A shorted battery may b
 To create a fuse, you will need to find ``0.5A`` or ``1A`` ``Resettable Fuse Radial Lead PPTC Polyswitch``. 
 When the circuit is shorted, the high current heats up the fuse which eventually trips. Let it cool down and your battery pack will be operational again. Because the fuse gets hot, it's important to add some heat shielding around it to avoid burns.
 
+* using a paper connector, connect the positive cable to one end of the fuse. Connect the other end of the fuse to a binder clip.
+
+![](/assets/resetablefuse.jpg)
+
+* Add add a protective layer of cardboard above the fuse to
+prevent burns.
+
+![A battery pack module](/assets/batterypower.jpg)
+
 #### More choices
 
-Lithium Polymer, Solar, wind, etc... There is a lot more options to store electrical power.
+Lithium Polymer, Solar, wind, etc... There is a lot more options to store electrical power. **Always make sure your power supply are fused.**
 
 ### Switch
 
