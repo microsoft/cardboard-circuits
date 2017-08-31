@@ -11,7 +11,7 @@ Cardboard circuits is electronic module system that allows kids to build circuit
 
 ![](/assets/threewayswitch.jpg)
 
-### Destroying provides Context
+### Deconstructing provides Context
 
 As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extacted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interrest is peaked and they understand why such component is important.
 
@@ -127,13 +127,19 @@ Paper fasteners allow to cramp on metal legs from resistors, diodes and other el
 
 ## Modules
 
+Note: this guide is not meant as a complete reference for the various electronic components you will encounter. We recommend the [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1) for a complete reference.
+
 ### Power
 
-The modules assume that a 5V DC electrical power is available.
-3 AA batteries, 4 recheargable AA or any USB power brick will do.
+The modules assume that a 5V or 6V DC electrical power is available.
+3 AA batteries, 4 recheargable AA or any USB power brick works in that setting.
 
-* Use a black and red marker to clearly mark the ground 
-and positive connectors on the module.
+#### AA Battery packs
+
+When opening toys, we will often end up with a nice battery holder with two terminals. 
+Because batteries may heat up a lot when shorted, a _reversible fuse_ should be added to the module.
+
+TODO
 
 #### USB power pack
 
@@ -145,16 +151,10 @@ connections.
 
 TODO
 
-#### Short protection with fuses
+#### What can go wrong?
 
-It is likely that the kids will create shorted circuits
-which can damage dramatically the batteries.
-
-To protect your power module, 
-add a reversible fuse to the circuit. The fuse will heat up 
-when too much current is flowing and will eventually "pop". Once it cools down, it will work again. Since the fuse gets hot, you'll need to build a heat barrier with Aluminium foil.
-
-TODO
+It is likely that the kids will create shorted circuits. A shorted battery may be damage, heat up or even explode.
+For those reasons, it is very important to add a _reversible fuse_ or use a power supply for short protection.
 
 ### Switch
 
@@ -174,6 +174,10 @@ We can either thread recycled cables or use paper clips to connect them to the b
 
 ![](/assets/threewayswitch.jpg)
 
+Buttons is another type of switches commonly found in toys.
+
+![5 buttons refurbished from a Guitar Hero Handle](/assets/guitarherobuttons.jpg)
+
 ### LED
 
 An LED is Light Emitting Diode. It's a piece of electronics that contains 
@@ -182,13 +186,47 @@ a crystal that generates light under a current. Watch out, it only allows curren
 * Take a deep dive with the [SparkFun LED guide](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) 
 or watch [Adabot from Adafruit](https://youtu.be/E2WcaJySVuw).
 
+![](/assets/ledmodule.jpg)
+
+#### What can go wrong?
+
+An LED can easily be destroyed by too much current. A _resistor_ is typically added in serie to avoid such situation. 
+
 ### Potentiometer
+
+TODO
+![](/assets/potentiometermodule.jpg)
+
+#### What can go wrong?
+
+A potentiometer acts as a voltage dividing resitor. If large current are flowing via the resistor, it will start to heat up and potentially break down.
 
 ### DC motor
 
+DC motors are found in most RC cars and many other toys. 
+They can be controlled to turn forward or backward at various speed.
+
+* a DC motor mounted in a cardboard module
+
+![](/assets/mounteddcmotor.jpg)
+
+* the front drive train of a RC car hosts 2 DC motors (1 for traction, 1 for steering)
+
+![](/assets/carmotor.jpg)
+
+* removing the car controller and rewiring the motors
+creates a driveable cardboard module!
+
+![](/assets/rccarmodule.jpg)
+
+### DC vibrating motor
+
+Often found in game controllers to create the vibrations, the vibrating motors are just DC motor mounted with a assymetric metal head.
+They can be used to build Junk Bots, small robots that move randomly based on the vibration of a motor.
+
 ### Microcontroller
 
-### DC motor controller
+TODO
 
 ### More modules
 
