@@ -1,56 +1,49 @@
-# Cardboard Circuits
+# [Cardboard Circuits](https://microsoft.github.io/cardboard-circuits/)
 
-# WORK IN PROGRESS
-# WORK IN PROGRESS
-# WORK IN PROGRESS
 # WORK IN PROGRESS
 
 ## A DYI electronic module system for tinkerers.
 
 Cardboard circuits is electronic module system that allows kids to build circuits. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips.
 
-![](/assets/threewayswitch.jpg)
+![A switch module](/assets/threewayswitch.jpg)
 
 ### Deconstructing provides Context
 
 As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extacted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interrest is peaked and they understand why such component is important.
 
-![](/assets/toydeconstruction.JPG)
+![Opening up toys to find components](/assets/toydeconstruction.JPG)
 
 ### Built by kids for kids
 
 In this module system, modules are built by the children themselves. Kids will naturally build modules to their taste, modules that have the right size for their hands, modules that have their favorite colors, modules that they want to reuse and can relate to.
 
-![](/assets/speakermod.JPG)
+![Customized speaked module](/assets/speakermod.JPG)
 
 ### No blueprint, improvise
 
 A module can be large, small, round, square, blue, red, or in a unicorn shape as long as its electronic functionality works as expected: a switch is a switch even if it is covered with sparkling glue.
 
-![](/assets/switch.JPG)
+![A switch module](/assets/switch.JPG)
 
 ### No soldering required
 
 Connections between modules are made via crocodile clips and binder clips. Using a bit of aluminium foil, a binder clip and hot glue, kids are able to manufacture their own connection -- without having to learn soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
-![](/assets/switchbare.jpg)
+![A switch module built with binder clips](/assets/switchbare.jpg)
 
 ### Read (and write) the manual!
 
 Kids use the cardboard to down a manual of the component
 they just built.
 
-![](/assets/racarmodule.jpg)
+![Written instructions on a rewired RC car](/assets/racarmodule.jpg)
 
 ### Microcontrollers welcome
 
 Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
 
-![](/assets/microbitservo.JPG)
-
-### Safety first
-
-Cardboard circuits recipes provides clear instructions on how to protect circuits from accidental (and common) shorting, overloading or other misuses.
+![Servo motor controlled by micro:bit](/assets/microbitservo.JPG)
 
 ### Testing, testing, testing
 
@@ -74,40 +67,40 @@ The springness of the binder clip arm is used to create a reliable connection wi
 
 Position the binder clip to the side of the cardobard
 
-![](/assets/binderclipattach.jpg)
+![Attaching the binder clip to the board](/assets/binderclipattach.jpg)
 
 #### Step 2: Clamp the cable
 
 Lift the binder clip arm and clamp the cable under it.
 
-![](/assets/binderclipcable.jpg)
+![Clamping the cable](/assets/binderclipcable.jpg)
 
 ##### Cable too thin?: Add foil
 
 If the cable is too thin on step 2, add a layer of Aluminium foil between the binder and the binder arm.
 
-![](/assets/binderclipfoilcable.jpg)
+![Using foil for better connection](/assets/binderclipfoilcable.jpg)
 
 #### Step 3: Testing!
 
 Use a multi-meter or a connection tester to make sure that your connection
 works... before adding glue!
 
-![](/assets/bindercliptesting.jpg)
+![Testing circuits](/assets/bindercliptesting.jpg)
 
 #### Step 4: Glue it all
 
-![](/assets/binderclipglue.jpg)
+![Securing connection with hot glue](/assets/binderclipglue.jpg)
 
 ### (Optional) Step 5: Add rubber bands
 
 You can optionally add rubber bands to improve the connection on the connector.
 
-![](/assets/binderclipband.jpg)
+![Using rubber bands for better connections](/assets/binderclipband.jpg)
 
 You can run the rubber accross the module when positioning the clips on opposite sides of the board.
 
-![](/assets/bindercliprubberback.jpg)
+![Rubber bands accross the back of the module](/assets/bindercliprubberback.jpg)
 
 #### Tips and tricks
 
@@ -167,12 +160,12 @@ If we are lucky, the switch terminals are soldered to cables
 and we can use the cable-binder connecting to connect them into a
 module.
 
-![](/assets/switch.JPG)
+![A switch module](/assets/switch.JPG)
 
 Toggle switches have terminals with mounted screws. 
 We can either thread recycled cables or use paper clips to connect them to the binder clips.
 
-![](/assets/threewayswitch.jpg)
+![A switch between two circuits](/assets/threewayswitch.jpg)
 
 Buttons is another type of switches commonly found in toys.
 
@@ -186,7 +179,7 @@ a crystal that generates light under a current. Watch out, it only allows curren
 * Take a deep dive with the [SparkFun LED guide](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) 
 or watch [Adabot from Adafruit](https://youtu.be/E2WcaJySVuw).
 
-![](/assets/ledmodule.jpg)
+![A LED module](/assets/ledmodule.jpg)
 
 #### What can go wrong?
 
@@ -195,7 +188,7 @@ An LED can easily be destroyed by too much current. A _resistor_ is typically ad
 ### Potentiometer
 
 TODO
-![](/assets/potentiometermodule.jpg)
+![A potentiometer module](/assets/potentiometermodule.jpg)
 
 #### What can go wrong?
 
@@ -208,16 +201,16 @@ They can be controlled to turn forward or backward at various speed.
 
 * a DC motor mounted in a cardboard module
 
-![](/assets/mounteddcmotor.jpg)
+![A DC motor mounted on cardboard](/assets/mounteddcmotor.jpg)
 
 * the front drive train of a RC car hosts 2 DC motors (1 for traction, 1 for steering)
 
-![](/assets/carmotor.jpg)
+![A recycled drive train with DC motors](/assets/carmotor.jpg)
 
 * removing the car controller and rewiring the motors
 creates a driveable cardboard module!
 
-![](/assets/rccarmodule.jpg)
+![A rewired toy RC car module](/assets/rccarmodule.jpg)
 
 ### DC vibrating motor
 
