@@ -133,27 +133,39 @@ Note: this guide is not meant as a complete reference for the various electronic
 The modules assume that a 5V or 6V DC electrical power is available.
 3 AA batteries, 4 recheargable AA or any USB power brick works in that setting.
 
-#### AA Battery packs
+#### USB power pack
+
+USB power packs are fairly inexpensive, easy to charge and have integrate protections (check the manual) which makes them a great choice to build circuits. In order to tap in the 5V power, you will need to cut open a USB cable and connect the ground/positive cables to binder clip
+connections.
+
+Some battery packs automatically shut down when no current is drawn, so this solution might not work for low current makes. In most cases, if a motor is involved, you won't face that problem!
+
+* Using a cable current, cut open a micro-USB cable.
+* Trim the red and black cables and cut out the rest of the cables.
+* Connect the cables using cable-binders connection.
+* Mark each connection with their polarity using a marker. Use the correct color, it helps!
+* Glue the battery to the cardboard to finish the module
+
+### ~ hint
+
+You can find USB recharing stations to recharge multiple battery packs at once.
+
+### ~
+
+#### AA or AAA Battery packs
 
 When opening toys, we will often end up with a nice battery holder with two terminals. 
 Because batteries may heat up a lot when shorted, a _reversible fuse_ should be added to the module.
 
-TODO
-
-#### USB power pack
-
-USB power packs are fairly inexpensive and easy to charge,
-which makes them a great choice to build circuits.
-In order to tap in the 5V power, you will need to cut open 
-a USB cable and connect the ground/positive cables to binder clip
-connections.
-
-TODO
-
-#### What can go wrong?
-
 It is likely that the kids will create shorted circuits. A shorted battery may be damage, heat up or even explode.
-For those reasons, it is very important to add a _reversible fuse_ or use a power supply for short protection.
+**For those reasons, it is very important to add a _reversible fuse_ to any battery pack.**
+
+To create a fuse, you will need to find ``0.5A`` or ``1A`` ``Resettable Fuse Radial Lead PPTC Polyswitch``. 
+When the circuit is shorted, the high current heats up the fuse which eventually trips. Let it cool down and your battery pack will be operational again. Because the fuse gets hot, it's important to add some heat shielding around it to avoid burns.
+
+#### More choices
+
+Lithium Polymer, Solar, wind, etc... There is a lot more options to store electrical power.
 
 ### Switch
 
