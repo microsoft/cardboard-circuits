@@ -232,13 +232,50 @@ TODO
 
 There are some many other eletronic components out there and this guide is not meant to be exhaustive. Be creative, curious, read up on the components you find and tell us what you were able to build!
 
+## Projects
+
+### LED circuit
+
+#### Modules
+
+* Power
+* LED
+* Switch
+
+#### Make
+
+TODO
+
+### Junk Bots
+
+#### Modules
+
+* Power
+* Switch
+* vibrating DC motor
+
+#### Materials
+
+* Platic cup
+* Markers
+* Tape
+
+#### Make
+
+TODO
+
+### Paiting Robot
+
+### Hacked RC Car
+
 ## Reference
 
-Tinkering Studio Circuit Boards - [https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit\_boards.pdf](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)
+[Tinkering Studio Circuit Boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)
 
-Tinkering Studio Toy Deconstruction - [https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy\_take\_apart\_0.pdf](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)
+[Tinkering Studio Toy Deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)
 
-Pacific Science Center Tinker Tank - [https://www.pacificsciencecenter.org/tinker-tank/](https://www.pacificsciencecenter.org/tinker-tank/)
+[Pacific Science Center Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/)
 
-Instructables - Build a Simple Circuit From a Pizza Box - [http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/](http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/)
+[Instructables - Build a Simple Circuit From a Pizza Box](http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/)
 
+[Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1)
