@@ -290,9 +290,27 @@ a small Phillips screwdriver.
 
 ![Game controller motors turned into modules](/assets/gamecontrollermodules.jpg)
 
-### RC toy car
+### RC race car
 
+A RC race car will usually have 2 or 3 DC motors and some radio electronics to control it. We can open it, remove the radio controller and wire the motors into a module.
 
+![Race car start](/assets/racecarstart.jpg)
+
+* using a small Phillips screwdriver, remove the cover
+
+![Race car opened](/assets/racecaropened.jpg)
+
+* remove the electronics and trim the cables
+
+![Race car wired](/assets/racecarreadytowire.jpg)
+
+* glue a cardboard and mount the cables using binder clips
+
+![Race car module](/assets/racecarmodule.jpg)
+
+* use power modules, switches and more to bring your car to life!
+
+![Race car drifting](/assets/racecardrifting.gif)
 
 ## Projects
 
