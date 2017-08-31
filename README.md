@@ -2,7 +2,7 @@
 
 # WORK IN PROGRESS
 
-## A DYI electronic module system for tinkerers.
+## DYI electronic modules tinkerers
 
 Cardboard circuits is electronic module system that allows kids to build circuits. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips.
 
