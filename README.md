@@ -15,17 +15,11 @@ As kids source the electronic parts from existing toys and machines, it gives an
 
 ![Opening up toys to find components](/assets/toydeconstruction.JPG)
 
-### Built by kids for kids
+### Built by kids
 
 In this module system, modules are built by the children themselves. Kids will naturally build modules to their taste, modules that have the right size for their hands, modules that have their favorite colors, modules that they want to reuse and can relate to.
 
 ![Customized speaked module](/assets/speakermod.JPG)
-
-### No blueprint, improvise
-
-A module can be large, small, round, square, blue, red, or in a unicorn shape as long as its electronic functionality works as expected: a switch is a switch even if it is covered with sparkling glue.
-
-![A switch module](/assets/switch.JPG)
 
 ### No soldering required
 
@@ -38,7 +32,12 @@ Connections between modules are made via crocodile clips and binder clips. Using
 Kids use the cardboard to down a manual of the component
 they just built.
 
-![Written instructions on a rewired RC car](/assets/racarmodule.jpg)
+![User manual written on the cardboard](/assets/usbpower2.jpg)
+
+Using colored masking tape, [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) can
+also be used to categorize the modules.
+
+TODO
 
 ### Microcontrollers welcome
 
@@ -298,3 +297,5 @@ TODO
 [Instructables - Build a Simple Circuit From a Pizza Box](http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/)
 
 [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1)
+
+[little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157)
