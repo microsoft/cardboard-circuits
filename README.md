@@ -54,7 +54,14 @@ A special thanks for the Tinker Tank team at the Pacific Science Center in Seatt
 
 ## Safety first!
 
-Tinkering with electronics is a fun activity that should always be **safe**: wear protective glasses, never ever use wall power, fuse all batteries are common sense guidelines to keep this activity safe.
+Tinkering with electronics is a fun activity that should always be **safe**: 
+
+![Never ever use wall power](/assets/wallpower.jpg)
+
+* **never ever use wall power** 
+* **wear protective glasses** 
+* **fuse all batteries**
+* **don't open batteries**
 
 TODO
 
@@ -198,16 +205,19 @@ Buttons is another type of switches commonly found in toys.
 ### LED
 
 An LED is Light Emitting Diode. It's a piece of electronics that contains 
-a crystal that generates light under a current. Watch out, it only allows current to flow one way and blocks it the other way.
+a crystal that generates light under a current. Watch out, it only allows current to flow one way and blocks it the other way. An LED can be easily destroyed by high currents so it is recommended to mount it in series with a 200Ω (Ohm) resistor.
 
-* Take a deep dive with the [SparkFun LED guide](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) 
+> Want to deep dive? Read the [SparkFun LED guide](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds) 
 or watch [Adabot from Adafruit](https://youtu.be/E2WcaJySVuw).
 
+The 200Ω resitors has 2 red lines and 1 black line. You can find tons of apps online that will help you compute this value based on the colors.
+
+* Connect the ground terminal (-), the short one, to a binder clip.
+* Connect the positive terminal (+), the long one, to a paper fasterner
+together with a terminal of the resistor
+* Clamp the remaining resitor terminal to a binder clip
+
 ![A LED module](/assets/ledmodule.jpg)
-
-#### What can go wrong?
-
-An LED can easily be destroyed by too much current. A _resistor_ is typically added in serie to avoid such situation. 
 
 ### Potentiometer
 
@@ -240,6 +250,12 @@ creates a driveable cardboard module!
 
 Often found in game controllers to create the vibrations, the vibrating motors are just DC motor mounted with a assymetric metal head.
 They can be used to build Junk Bots, small robots that move randomly based on the vibration of a motor.
+
+![A vibrating DC motor harvested from a game controller](/assets/dcvibrator.jpg)
+
+You can easily turn a DC motor into a assymetric motor by attach weight to it.
+
+![A converted DC motor into a vibrating motor](/assets/converteddcvibrator.jpg)
 
 ### Microcontroller
 
