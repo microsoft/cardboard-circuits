@@ -6,7 +6,6 @@
 
 Cardboard circuits is electronic module system that allows kids to build circuits. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf) and [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf).
 
-
 ![A LED dimmer circuit](/assets/leddimmer.gif)
 
 ### Deconstructing provides Context
@@ -163,7 +162,7 @@ When the circuit is shorted, the high current heats up the fuse which eventually
 
 * using a paper connector, connect the positive cable to one end of the fuse. Connect the other end of the fuse to a binder clip.
 
-![](/assets/resetablefuse.jpg)
+![Connecting the positive cable through the resetable fuse](/assets/resetablefuse.jpg)
 
 * Add add a protective layer of cardboard above the fuse to
 prevent burns.
@@ -254,6 +253,8 @@ There are some many other eletronic components out there and this guide is not m
 
 ### LED circuit
 
+![A LED dimmer circuit](/assets/leddimmer.gif)
+
 #### Modules
 
 * Power
@@ -262,7 +263,7 @@ There are some many other eletronic components out there and this guide is not m
 
 #### Make
 
-TODO
+Tinker to connect the 3 modules together.
 
 ### Junk Bots
 
