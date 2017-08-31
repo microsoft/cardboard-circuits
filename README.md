@@ -265,6 +265,35 @@ TODO
 
 There are some many other eletronic components out there and this guide is not meant to be exhaustive. Be creative, curious, read up on the components you find and tell us what you were able to build!
 
+## Toys
+
+Deconstruction suggestion for common toys found in thrift shops
+and garage sales.
+
+### Game Controller
+
+A typical game controller is stuffed with buttons, vibrators
+and other cools sensors. To open it up, you would typically need
+a small Phillips screwdriver.
+
+![A console game controller](/assets/gamecontroller.jpg)
+
+* remove all the screws from the enclosure and open up the controller.
+
+![A game controller without enclosure](/assets/gamecontrolleropened.jpg)
+
+* If you are lucky, the controller has a "vibrate" feature and you'll find 2 DC motors in the handles. Remove them and keep as much cable as possible.
+
+![vibrating motors from a game controller](/assets/gamecontrollermotors.jpg)
+
+* assemble the motors into two modules so that you can use them in other projects!
+
+![Game controller motors turned into modules](/assets/gamecontrollermodules.jpg)
+
+### RC toy car
+
+
+
 ## Projects
 
 ### LED circuit
@@ -283,6 +312,8 @@ Tinker to connect the 3 modules together.
 
 ### Junk Bots
 
+![A junk bot built from a game controller](/assets/gamecontrollerbot.gif)
+
 #### Modules
 
 * Power
@@ -297,11 +328,8 @@ Tinker to connect the 3 modules together.
 
 #### Make
 
-TODO
-
-### Paiting Robot
-
-### Hacked RC Car
+Attach the power and vibrating motor modules to a plastic box or cup
+mounted on 3 or 4 markers. Connect the motors to the power and let it run away!
 
 ## Reference
 
