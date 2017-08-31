@@ -54,10 +54,15 @@ As kids build their own modules, they are constantly encourage to test their cir
 
 A special thanks for the Tinker Tank team at the Pacific Science Center in Seattle. 
 
+## Safety first!
+
+Tinkering with electronics is a fun activity that should always be **safe**: wear protective glasses, never ever use wall power, fuse all batteries are common sense guidelines to keep this activity safe.
+
+TODO
+
 ## Connectors
 
-Cardboard circuits are made of materials easily found in classrooms:
-cardboard, binder clips and hot glue.
+Cardboard circuits are made of materials easily found in classrooms: cardboard, binder clips and hot glue.
 
 ### Cable to binder clip
 
