@@ -34,7 +34,7 @@ they just built.
 ![User manual written on the cardboard](/assets/usbpower2.jpg)
 
 Using colored masking tape, [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) can
-also be used to categorize the modules.
+also be used to categorize the modules (power = blue, input = pink, output = green, wire = orange).
 
 TODO
 
@@ -60,10 +60,8 @@ Tinkering with electronics is a fun activity that should always be **safe**:
 
 * **never ever use wall power** 
 * **wear protective glasses** 
-* **fuse all batteries**
+* **add a fuse to power modules**
 * **don't open batteries**
-
-TODO
 
 ## Connectors
 
@@ -129,6 +127,28 @@ Some component may not have cables but have metal rings. Potentiometers or the m
 
 Paper fasteners allow to cramp on metal legs from resistors, diodes and other electronic components. They are very useful to create a small ad-hoc circuit involving resistors or LEDs.
 
+### Cable to paper clip
+
+Somewhat a bit more elusive than the binder clip, it is also possible to squeeze the cable on a paper clip on the side of the board. 
+
+### Step 1: Position the cable
+
+Trim the cable and position the end where it needs to be squeezed by the paper clip.
+
+TODO
+
+### Step 2: Slide over the paper clip
+
+While holding the cable, slide the paper clip on the side of the board. Carefully ensure that the paper clip is squeezing the metal end of the cable to get a good connection.
+
+TODO
+
+### Step 3: gluing!
+
+The paper clip tends to slide away from the cardboard. With this connector, it is more convinient to glue it immediately.
+
+TODO
+
 ## Modules
 
 Note: this guide is not meant as a complete reference for the various electronic components you will encounter. We recommend the [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1) for a complete reference.
@@ -137,6 +157,8 @@ Note: this guide is not meant as a complete reference for the various electronic
 
 The modules assume that a 5V or 6V DC electrical power is available.
 3 AA batteries, 4 recheargable AA or any USB power brick works in that setting.
+
+The module color is **blue** for power modules.
 
 #### USB power pack
 
