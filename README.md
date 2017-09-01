@@ -4,9 +4,11 @@
 
 ## DYI electronic modules tinkerers
 
-Cardboard circuits is electronic module system that allows kids to build circuits. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf) and [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf).
+#cardboardcircuits are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf) and [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf).
 
 ![A LED dimmer circuit](/assets/leddimmer.gif)
+
+> Sharing your creations on social media? Use the **#cardboardcircuits** handle!
 
 ### Deconstructing provides Context
 
@@ -22,11 +24,11 @@ In this module system, modules are built by the children themselves. Kids will n
 
 ### No soldering required
 
-Connections between modules are made via crocodile clips and binder clips. Using a bit of aluminium foil, a binder clip and hot glue, kids are able to manufacture their own connection -- without having to learn soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
+Connections between modules are made via crocodile clips, binder clips or paper clips. Using common classroom materials, kids are able to manufacture their own modules -- without soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
 ![A switch module built with binder clips](/assets/switchbare.jpg)
 
-### Read (and write) the manual!
+### Modules are self-documented
 
 Kids use the cardboard to down a manual of the component
 they just built.
@@ -36,7 +38,7 @@ they just built.
 Using colored masking tape, [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) can
 also be used to categorize the modules (power = blue, input = pink, output = green, wire = orange).
 
-TODO
+![Modules with colored masking tape](/assets/coloredmodules.jpg)
 
 ### Microcontrollers welcome
 
