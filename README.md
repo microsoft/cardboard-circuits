@@ -8,7 +8,7 @@
 
 ![A LED dimmer circuit](/assets/leddimmer.gif)
 
-> Sharing your creations on social media? Use the **#cardboardcircuits** handle!
+> Sharing your creations on social media? Use the **[#cardboardcircuits](https://twitter.com/search?q=%23cardboardcircuits)** handle!
 
 ### Deconstructing provides Context
 
