@@ -281,9 +281,28 @@ You can easily turn a DC motor into a assymetric motor by attach weight to it.
 
 ![A converted DC motor into a vibrating motor](/assets/converteddcvibrator.jpg)
 
-### Microcontroller
+### micro:bit
+
+A [micro:bit](https://makecode.microbit.org) is a small computer, called _microcontroller_, 
+that can interact with other electronic devices. Aside from the onboard screen, sensors and radio capabilities, the micro:bit can control LEDs, servos or motor controllers via large hole connector on the bottom. The micro:bit is easily programmed with a [kid frienly code editor](https://makecode.microbit.org).
+
+#### Don't fry me!
+
+The pins of the micro:bit can handle small 3V currents, you should never connect them directly to your power module or you will destroy the board.
 
 TODO
+
+#### RC controller module
+
+This module sends commands via the micro:bit radio to any receiver module. It's a building block to create remote controlled toys.
+
+TODO
+
+#### RC receiver module
+
+This module receives the radio commands and transform them into small current through the pins of the micro:bit. Coupled with a motor controller, it can be used to build RC light systems, cars or robots.
+
+TODO 
 
 ### More modules
 
