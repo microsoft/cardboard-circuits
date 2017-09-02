@@ -58,10 +58,14 @@ A special thanks for the Tinker Tank team at the Pacific Science Center in Seatt
 
 Tinkering with electronics is a fun activity that should always be **safe**: 
 
+* **never ever use wall power** 
+
 ![Never ever use wall power](/assets/wallpower.jpg)
 
-* **never ever use wall power** 
 * **wear protective glasses** 
+
+![Wear protective glasses](/assets/safetyglasses.jpg)
+
 * **add a fuse to power modules**
 * **don't open batteries**
 
@@ -133,23 +137,17 @@ Paper fasteners allow to cramp on metal legs from resistors, diodes and other el
 
 Somewhat a bit more elusive than the binder clip, it is also possible to squeeze the cable on a paper clip on the side of the board. 
 
-### Step 1: Position the cable
-
-Trim the cable and position the end where it needs to be squeezed by the paper clip.
-
-TODO
-
-### Step 2: Slide over the paper clip
+### Step 1: Slide over the paper clip
 
 While holding the cable, slide the paper clip on the side of the board. Carefully ensure that the paper clip is squeezing the metal end of the cable to get a good connection.
 
-TODO
+![A switch connection secured with a paper clip](/assets/ppswitchsecured.jpg)
 
 ### Step 3: gluing!
 
 The paper clip tends to slide away from the cardboard. With this connector, it is more convinient to glue it immediately.
 
-TODO
+![A switch connection secured with a paper clip](/assets/ppswitchglued.jpg)
 
 ## Modules
 
@@ -280,6 +278,12 @@ They can be used to build Junk Bots, small robots that move randomly based on th
 You can easily turn a DC motor into a assymetric motor by attach weight to it.
 
 ![A converted DC motor into a vibrating motor](/assets/converteddcvibrator.jpg)
+
+### Cable
+
+When opening up game controller, you will often end with a long and sturdy cable that can be used
+to create wire modules!
+
 
 ### micro:bit
 
