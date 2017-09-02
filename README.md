@@ -284,6 +284,27 @@ You can easily turn a DC motor into a assymetric motor by attach weight to it.
 When opening up game controller, you will often end with a long and sturdy cable that can be used
 to create wire modules!
 
+#### Step 1: trim the wires
+
+A cable typically various cables, including a grounfd (black), positive (red)
+and a few logic cables. Strip out some casing and trim each wire.
+
+![A cable with trimmed wires](/assets/cabletrimmed.jpg)
+
+#### Step 2: prepare the module
+
+Glue the cable at the center of carboard and layout a binder clip for
+each wire. Annotate each binder with the color of the cable.
+
+![Cable module layout](/assets/cableconnectors.jpg)
+
+Once ready, connect all the wires to the binders.
+
+#### Step 3: prepare the other side!
+
+Do the same for the other end of the cable and you're done. If available, use orange tape to mark the cable.
+
+![A cable module](/assets/cablemodule.jpg)
 
 ### micro:bit
 
@@ -293,8 +314,6 @@ that can interact with other electronic devices. Aside from the onboard screen, 
 #### Don't fry me!
 
 The pins of the micro:bit can handle small 3V currents, you should never connect them directly to your power module or you will destroy the board.
-
-TODO
 
 #### RC controller module
 
