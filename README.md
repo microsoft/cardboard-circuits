@@ -344,26 +344,42 @@ Do the same for the other end of the cable and you're done. If available, use or
 
 ![A cable module](/assets/cablemodule.jpg)
 
-### micro:bit
+### Microcontrollers
+
+Microcontrollers are tiny computers that receive and generate electrical currents. They can be used to control motors, lights and sounds.
+Some microcontrollers have built-in sensors and buttons which makes even easier to integrate them in your project. 
+We will use microcontrollers supported by https://makecode.com in this guide but there are many others out there.
+
+#### Don't fry me
+
+Microcontrollers interact with other electronic devices via their _pins_ using _small_ current. 
+Without proper protection, it is really easy to accidently destroy the board by plugging the wrong cables or pulling too much current.
+Any pin connected to a terminal should be properly protected.
+
+#### LED optoisolator
+
+If you plan to expose an _input_ pin with binder clips, it most likely that an accidental connection will destroy it. To make it more robust,
+a LED optoisolator almost guarantees that the pin is safe. The optoisolator uses 2 LEDs connected on different circuits.
+The input circuit controls the emitting LED and turns it on when the input is high. 
+The receiving LED is used in reverse and acts as a light sensor connectoed to the micro-controller pin, which can pick up the tiny voltage variation
+that occurs when the LED is turned on.
+
+TODO 
+
+#### MOSFET relay switch
+
+A _output_ pin also needs protection as a user may connect to any other cable. We propose to use MOSFET to isolate the microcontroller and allow to drive large current in motors.
+
+TODO
+
+#### micro:bit
 
 A [micro:bit](https://makecode.microbit.org) is a small computer, called _microcontroller_, 
 that can interact with other electronic devices. Aside from the onboard screen, sensors and radio capabilities, the micro:bit can control LEDs, servos or motor controllers via large hole connector on the bottom. The micro:bit is easily programmed with a [kid frienly code editor](https://makecode.microbit.org).
 
-#### Don't fry me!
+#### micro:bit 1 input 1 output
 
-The pins of the micro:bit can handle small 3V currents, you should never connect them directly to your power module or you will destroy the board.
-
-#### RC controller module
-
-This module sends commands via the micro:bit radio to any receiver module. It's a building block to create remote controlled toys.
-
-TODO
-
-#### RC receiver module
-
-This module receives the radio commands and transform them into small current through the pins of the micro:bit. Coupled with a motor controller, it can be used to build RC light systems, cars or robots.
-
-TODO 
+In this module, we expose 1 input pin (using a LED optoisolator) and 1 output pin (via a MOSFET relay switch). Once built, the module can safely be used with other modules, it can also drive a motor.
 
 ### More modules
 
@@ -466,3 +482,9 @@ mounted on 3 or 4 markers. Connect the motors to the power and let it run away!
 [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1)
 
 [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157)
+
+[microcontroller input protection techniques](http://www.kevinmfodor.com/home/My-Blog/microcontrollerinputprotectiontechniques)
+
+[T³: Using LEDs as Light Sensors](https://www.sparkfun.com/news/2161)
+
+[Relay switch circuit](http://www.electronics-tutorials.ws/blog/relay-switch-circuit.html)
