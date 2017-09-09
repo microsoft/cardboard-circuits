@@ -8,11 +8,11 @@ Some battery packs automatically shut down when no current is drawn, so this sol
 * Using a wire cutter, cut open a USB cable.
 * Trim the red and black cables and cut out the rest of the cables.
 
-![Trimmed cables in a USB cable](/assets/usbcables.jpg)
+![Trimmed cables in a USB cable]({{ site.url }}/assets/usbcables.jpg)
 
 * Connect the cables using cable-binders connection.
 * Mark each connection with their polarity using a marker. Use the correct color, it helps!
 * Glue the battery to the cardboard to finish the module
 
-![A USB power pack module](/assets/usbpower2.jpg)
+![A USB power pack module]({{ site.baseurl }}/assets/usbpower2.jpg)
 
