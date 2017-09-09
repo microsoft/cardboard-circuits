@@ -56,7 +56,7 @@ A special thanks for the Tinker Tank team at the Pacific Science Center in Seatt
 
 ## Safety
 
-**Please review carefully the [Safety guidelines]({{site.baseurl}}/safety)
+**Please review carefully the [Safety guidelines]({{site.baseurl}}/safety)**
 
 ![Never ever use wall power]({{site.baseurl}}/assets/wallpower.jpg)
 
