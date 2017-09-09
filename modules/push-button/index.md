@@ -1,3 +1,4 @@
 # Test
 
-[Test](/modules/push-button.md)
+[Test]({{site.baseurl}}/modules/push-button)
+[Test2]({{site.baseurl}}/modules/push-button)
