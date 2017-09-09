@@ -73,99 +73,10 @@ Tinkering with electronics is a fun activity that should always be **safe**:
 
 Cardboard circuits are made of materials easily found in classrooms: cardboard, binder clips and hot glue.
 
-### Cable to binder clip
-
-This is the most common connection between an electrical cable and a binder clip.
-The springness of the binder clip arm is used to create a reliable connection with the cable without having to solder.
-
-#### Step 1: Attach the binder clip
-
-Position the binder clip to the side of the cardobard
-
-![Attaching the binder clip to the board](/assets/binderclipattach.jpg)
-
-#### Step 2: Clamp the cable
-
-Lift the binder clip arm and clamp the cable under it.
-
-![Clamping the cable](/assets/binderclipcable.jpg)
-
-##### Cable too thin?: Add foil
-
-If the cable is too thin on step 2, add a layer of Aluminium foil between the binder and the binder arm.
-
-![Using foil for better connection](/assets/binderclipfoilcable.jpg)
-
-#### Step 3: Testing!
-
-Use a multi-meter or a connection tester to make sure that your connection
-works... before adding glue!
-
-![Testing circuits](/assets/bindercliptesting.jpg)
-
-#### Step 4: Glue it all
-
-![Securing connection with hot glue](/assets/binderclipglue.jpg)
-
-### (Optional) Step 5: Add rubber bands
-
-You can optionally add rubber bands to improve the connection on the connector.
-
-![Using rubber bands for better connections](/assets/binderclipband.jpg)
-
-You can run the rubber accross the module when positioning the clips on opposite sides of the board.
-
-![Rubber bands accross the back of the module](/assets/bindercliprubberback.jpg)
-
-#### Tips and tricks
-
-* Test all your connection before gluing them. Be generous with glue.
-* Use colored markers to describe the purpose of each connector.
-* Trimming a cable with a cable cutter can be very trickly... and lead to no more cables! We highly recommend getting cable trimmers which make this operation seamless for kids.
-* Thicker cables can be attached without Aluminium foil. Trial and error is generally the best way to determine if you can skip that step.
-* Rubber bands can be used to strengthen the connection and ensure it does not get ripped out.
-
-### Metal ring to binder clip
-
-Some component may not have cables but have metal rings. Potentiometers or the micro:bit are example of those. 
-
-### Paper fasterners
-
-Paper fasteners allow to cramp on metal legs from resistors, diodes and other electronic components. They are very useful to create a small ad-hoc circuit involving resistors or LEDs.
-
-> You can also use paper fasteners to hide connections under the cardboard [as described in this instructable](http://www.instructables.com/id/Build-a-Simple-Circuit-from-a-Pizza-Box-No-Solder/)
-
-### Step 1: punch the cardboard
-
-Use a hole puncher and _very carefully_ scissors to punch a hole for the paper fasterner.
-
-### Step 2: connect the cables
-
-Slide the cables in between the legs of the fasterner and secure it in the hole
-
-![Connect cable and resistor between paper fastener legs](/assets/paperfasternerconnect.jpg)
-
-### Step 3: complete the circuit
-
-Complete the circuit with a binder clip or another faster!
-
-![Paper fasterner resistor circuit](/assets/paperfasternercircuit.jpg)
-
-### Cable to paper clip
-
-Somewhat a bit more elusive than the binder clip, it is also possible to squeeze the cable on a paper clip on the side of the board. 
-
-### Step 1: Slide over the paper clip
-
-While holding the cable, slide the paper clip on the side of the board. Carefully ensure that the paper clip is squeezing the metal end of the cable to get a good connection.
-
-![A switch connection secured with a paper clip](/assets/ppswitchsecured.jpg)
-
-### Step 3: gluing!
-
-The paper clip tends to slide away from the cardboard. With this connector, it is more convinient to glue it immediately.
-
-![A switch connection secured with a paper clip](/assets/ppswitchglued.jpg)
+* [Cable-binder-clip]({{site.baseurl}}/connectors/cable-binder-clip)
+* [Ring-binder-clip]({{site.baseurl}}/connectors/ring-binder-clip)
+* [Fastener-bridge-clip]({{site.baseurl}}/connectors/paper-fastener-bridge)
+* [Cable-paper-clip]({{site.baseurl}}/connectors/cable-paper-clip)
 
 ## Modules
 
@@ -178,43 +89,8 @@ The modules assume that a 5V or 6V DC electrical power is available.
 
 The module color is **blue** for power modules.
 
-#### USB power pack
-
-USB power packs are fairly inexpensive, easy to charge and have integrate protections (check the manual) which makes them a great choice to build circuits. In order to tap in the 5V power, you will need to cut open a USB cable and connect the ground/positive cables to binder clip
-connections.
-
-Some battery packs automatically shut down when no current is drawn, so this solution might not work for low current makes. In most cases, if a motor is involved, you won't face that problem!
-
-* Using a wire cutter, cut open a USB cable.
-* Trim the red and black cables and cut out the rest of the cables.
-
-![Trimmed cables in a USB cable](/assets/usbcables.jpg)
-
-* Connect the cables using cable-binders connection.
-* Mark each connection with their polarity using a marker. Use the correct color, it helps!
-* Glue the battery to the cardboard to finish the module
-
-![A USB power pack module](/assets/usbpower2.jpg)
-
-#### AA or AAA Battery packs
-
-When opening toys, we will often end up with a nice battery holder with two terminals. 
-Because batteries may heat up a lot when shorted, a _reversible fuse_ should be added to the module.
-
-It is likely that the kids will create shorted circuits. A shorted battery may be damage, heat up or even explode.
-**For those reasons, it is very important to add a _reversible fuse_ to any battery pack.**
-
-To create a fuse, you will need to find ``0.5A`` or ``1A`` ``Resettable Fuse Radial Lead PPTC Polyswitch``. 
-When the circuit is shorted, the high current heats up the fuse which eventually trips. Let it cool down and your battery pack will be operational again. Because the fuse gets hot, it's important to add some heat shielding around it to avoid burns.
-
-* using a paper connector, connect the positive cable to one end of the fuse. Connect the other end of the fuse to a binder clip.
-
-![Connecting the positive cable through the resetable fuse](/assets/resetablefuse.jpg)
-
-* Add add a protective layer of cardboard above the fuse to
-prevent burns.
-
-![A battery pack module](/assets/batterypower.jpg)
+* [USB power pack module]({{site.baseurl}}/modules/power/usb-power-pack)
+* [Battery pack module]({{site.baseurl}}/modules/power/battery-pack)
 
 #### More choices
 
