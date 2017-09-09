@@ -9,40 +9,40 @@ The springness of the binder clip arm is used to create a reliable connection wi
 
 Position the binder clip to the side of the cardobard
 
-![Attaching the binder clip to the board](/assets/binderclipattach.jpg)
+![Attaching the binder clip to the board]({{site.baseurl}}/assets/binderclipattach.jpg)
 
 ### Step 2: Clamp the cable
 
 Lift the binder clip arm and clamp the cable under it.
 
-![Clamping the cable](/assets/binderclipcable.jpg)
+![Clamping the cable]({{site.baseurl}}/assets/binderclipcable.jpg)
 
 #### Cable too thin?: Add foil
 
 If the cable is too thin on step 2, add a layer of Aluminium foil between the binder and the binder arm.
 
-![Using foil for better connection](/assets/binderclipfoilcable.jpg)
+![Using foil for better connection]({{site.baseurl}}/assets/binderclipfoilcable.jpg)
 
 ### Step 3: Testing!
 
 Use a multi-meter or a connection tester to make sure that your connection
 works... before adding glue!
 
-![Testing circuits](/assets/bindercliptesting.jpg)
+![Testing circuits]({{site.baseurl}}/assets/bindercliptesting.jpg)
 
 ### Step 4: Glue it all
 
-![Securing connection with hot glue](/assets/binderclipglue.jpg)
+![Securing connection with hot glue]({{site.baseurl}}/assets/binderclipglue.jpg)
 
 ### (Optional) Step 5: Add rubber bands
 
 You can optionally add rubber bands to improve the connection on the connector.
 
-![Using rubber bands for better connections](/assets/binderclipband.jpg)
+![Using rubber bands for better connections]({{site.baseurl}}/assets/binderclipband.jpg)
 
 You can run the rubber accross the module when positioning the clips on opposite sides of the board.
 
-![Rubber bands accross the back of the module](/assets/bindercliprubberback.jpg)
+![Rubber bands accross the back of the module]({{site.baseurl}}/assets/bindercliprubberback.jpg)
 
 ## Tips and tricks
 

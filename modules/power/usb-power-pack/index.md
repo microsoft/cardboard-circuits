@@ -8,7 +8,7 @@ Some battery packs automatically shut down when no current is drawn, so this sol
 * Using a wire cutter, cut open a USB cable.
 * Trim the red and black cables and cut out the rest of the cables.
 
-![Trimmed cables in a USB cable]({{ site.url }}/assets/usbcables.jpg)
+![Trimmed cables in a USB cable]({{ site.baseurl }}/assets/usbcables.jpg)
 
 * Connect the cables using cable-binders connection.
 * Mark each connection with their polarity using a marker. Use the correct color, it helps!
