@@ -54,20 +54,11 @@ As kids build their own modules, they are constantly encourage to test their cir
 
 A special thanks for the Tinker Tank team at the Pacific Science Center in Seattle. 
 
-## Safety first!
+## Safety
 
-Tinkering with electronics is a fun activity that should always be **safe**: 
-
-* **never ever use wall power** 
+**Please review carefully the [Safety guidelines]({{site.baseurl}}/safety)
 
 ![Never ever use wall power]({{site.baseurl}}/assets/wallpower.jpg)
-
-* **wear protective glasses** 
-
-![Wear protective glasses]({{site.baseurl}}/assets/safetyglasses.jpg)
-
-* **add a fuse to power modules**
-* **don't open batteries**
 
 ## Connectors
 
