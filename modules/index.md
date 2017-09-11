@@ -1,5 +1,7 @@
 # Modules
 
+![Modules with colored masking tape]({{site.baseurl}}/assets/coloredmodules.jpg)
+
 Note: this guide is not meant as a complete reference for the various electronic components you will encounter. We recommend the [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1) for a complete reference.
 
 * [Power]({{site.baseurl}}/modules/power)
