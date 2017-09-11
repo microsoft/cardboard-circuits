@@ -58,7 +58,7 @@ A special thanks for the Tinker Tank team at the Pacific Science Center in Seatt
 
 * [Safety guidelines]({{site.baseurl}}/safety)
 * [Connectors]({{site.baseurl}}/connectors)
-* [Toys]({{site.baseurl}}/toys)
 * [Modules]({{site.baseurl}}/modules)
+* [Toys]({{site.baseurl}}/toys)
 * [Projects]({{site.baseurl}}/projects)
 * [Reference]({{site.baseurl}}/reference)
