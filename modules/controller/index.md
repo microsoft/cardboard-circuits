@@ -1,6 +1,6 @@
 # Controllers
 
-![Controller modules]({{site.baseurl}}/assets/controllers.jpg)
+![Controller modules]({{site.baseurl}}/assets/controller.jpg)
 
 Microcontrollers are tiny computers that receive and generate electrical currents. They can be used to control motors, lights and sounds.
 Some microcontrollers have built-in sensors and buttons which makes even easier to integrate them in your project. 
