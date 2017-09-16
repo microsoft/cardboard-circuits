@@ -1,6 +1,6 @@
 # Power modules
 
-![A USB power pack module]({{ site.baseurl }}/assets/usbpower2.jpg)
+![Power modules]({{site.baseurl}}/assets/power.jpg)
 
 The modules assume that a 5V or 6V DC electrical power is available.
 3 AA batteries, 4 recheargable AA or any USB power brick works in that setting.

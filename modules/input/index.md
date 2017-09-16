@@ -1,6 +1,8 @@
 # Input modules
 
-![Light switch module]({{site.baseurl}}/assets/lightswitchdone.jpg)
+![Input modules]({{site.baseurl}}/assets/input.jpg)
+
+Input modules allow open or close circuits, change resistance and more.
 
 * [Switch]({{site.baseurl}}/modules/input/switch)
 * [Toggle light switch]({{site.baseurl}}/modules/input/toggle-light-switch)

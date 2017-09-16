@@ -1,6 +1,6 @@
 # Output modules
 
-![A LED module]({{site.baseurl}}/assets/ledmodule.jpg)
+![Output modules]({{site.baseurl}}/assets/output.jpg)
 
 An output module takes an electrical current and generates movement, light or sounds.
 

@@ -1,6 +1,6 @@
 # Wire modules
 
-![A cable module]({{site.baseurl}}/assets/cablemodule.jpg)
+![Power modules]({{site.baseurl}}/assets/wire.jpg)
 
 Wire modules connect other modules. Use the **orange** color to mark them.
 

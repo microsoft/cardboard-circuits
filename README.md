@@ -4,7 +4,7 @@
 
 ## DYI electronic modules tinkerers
 
-**#cardboardcircuits** are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf), [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf) and [Paper:Bits](http://plakkenenknippen.nl/paper-bits-vrolijk-en-goedkoop/).
+**#cardboardcircuits** are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf), [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf), and [others]({{site.baseurl}}/reference).
 
 ![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
 
@@ -45,10 +45,6 @@ also be used to categorize the modules (power = blue, input = pink, output = gre
 Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
 
 ![Servo motor controlled by micro:bit]({{site.baseurl}}/assets/microbitservo.JPG)
-
-### Testing, testing, testing
-
-As kids build their own modules, they are constantly encourage to test their circuits. Testing and validating a module is cornerstone of the approach. As a side effect, the students build a robust mental model of the components they are working with.
 
 ### Acknowledgments
 
