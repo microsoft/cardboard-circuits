@@ -5,6 +5,8 @@ that can interact with other electronic devices. Aside from the onboard screen, 
 
 ## micro:bit MOSFET switch output
 
+One or two [MOSFET switches]({{site.baseurl}}/modules/input/mosfet-switch) can be used to let the micro:bit control one or two circuit with higher current, typically DC motors.
+
 ![A micro:bit dual switch with MOSFET]({{site.baseurl}}/assets/microbit_dual_switch.jpg)
 
 ### Example
