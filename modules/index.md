@@ -1,6 +1,6 @@
 # Modules
 
-![Modules with colored masking tape]({{site.baseurl}}/assets/coloredmodules.jpg)
+![Modules categories]({{site.baseurl}}/assets/modules.jpg)
 
 Note: this guide is not meant as a complete reference for the various electronic components you will encounter. We recommend the [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1) for a complete reference.
 
@@ -15,3 +15,5 @@ Note: this guide is not meant as a complete reference for the various electronic
 There are some many other eletronic components out there and this guide is not meant to be exhaustive.
 
 If you develop a new module, don't hesitate to send us a pull request to add it to the list.
+
+![Modules with colored masking tape]({{site.baseurl}}/assets/coloredmodules.jpg)

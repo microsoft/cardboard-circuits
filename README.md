@@ -28,19 +28,18 @@ Connections between modules are made via crocodile clips, binder clips or paper 
 
 ![A switch module built with binder clips]({{site.baseurl}}/assets/switchbare.jpg)
 
-### Modules are self-documented
+### Build your own modules
 
-Kids use the cardboard to down a manual of the component
-they just built.
+Using colored masking tape, [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) can
+also be used to categorize the modules: power = blue, input = pink, output = green, wire = orange and (new) controller = yellow.
+
+![Modules categories]({{site.baseurl}}/assets/modules.jpg)
+
+Kids can also use the cardboard to write a manual for the component they just built.
 
 ![User manual written on the cardboard]({{site.baseurl}}/assets/usbpower2.jpg)
 
-Using colored masking tape, [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) can
-also be used to categorize the modules (power = blue, input = pink, output = green, wire = orange).
-
-![Modules with colored masking tape]({{site.baseurl}}/assets/coloredmodules.jpg)
-
-### Microcontrollers welcome
+### (Micro-)Controllers welcome
 
 Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
 
