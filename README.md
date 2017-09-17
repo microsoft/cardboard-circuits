@@ -47,7 +47,7 @@ Students can use any microcontroller to build specialized modules, such as sound
 
 ### Acknowledgments
 
-A special thanks for the Tinker Tank team at the Pacific Science Center in Seattle. 
+A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle. 
 
 ## Contents
 
