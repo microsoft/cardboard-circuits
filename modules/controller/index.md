@@ -2,6 +2,8 @@
 
 ![Controller modules]({{site.baseurl}}/assets/controller.jpg)
 
+A **controller** module has integrate behavior to relate **inputs** to **outputs**. A controller may be built out of simple electronic components and/or microcontrollers. 
+
 Microcontrollers are tiny computers that receive and generate electrical currents. They can be used to control motors, lights and sounds.
 Some microcontrollers have built-in sensors and buttons which makes even easier to integrate them in your project. 
 We will use microcontrollers supported by https://makecode.com in this guide but there are many others out there.
@@ -12,6 +14,6 @@ Microcontrollers interact with other electronic devices via their _pins_ using _
 Without proper protection, it is really easy to accidently destroy the board by plugging the wrong cables or pulling too much current.
 Any pin connected to a terminal should be properly protected.
 
-## Boards
+## Micro-controllers
 
 * [micro:bit]({{site.baseurl}}/modules/controller/microbit)
