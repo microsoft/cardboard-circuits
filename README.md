@@ -41,7 +41,7 @@ Kids can also use the cardboard to write a manual for the component they just bu
 
 Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
 
-![Servo motor controlled by micro:bit]({{site.baseurl}}/assets/microbitservo.JPG)
+![A radio-controlled micro:bit car]({{site.baseurl}}/assets/microbitradiocar.gif)
 
 ### Acknowledgments
 
