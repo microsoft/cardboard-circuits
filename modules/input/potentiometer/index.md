@@ -1,7 +1,8 @@
 # Potentiometer
 
-TODO
-![A potentiometer module]({{site.baseurl}}/assets/potentiometermodule.jpg)
+A potentiometer controls the voltage going through each circuit, it acts a voltage divider between two circuits.
+
+![A potentiometer module]({{site.baseurl}}/assets/modules/potentiometer.jpg)
 
 ## What can go wrong?
 
