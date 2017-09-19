@@ -19,3 +19,5 @@
 [T³: Using LEDs as Light Sensors](https://www.sparkfun.com/news/2161)
 
 [Relay switch circuit](http://www.electronics-tutorials.ws/blog/relay-switch-circuit.html)
+
+[Simplest Method to Make a Motor Turn Off, Turn On, Go Forwards, and Go Backwards](http://www.robotroom.com/DPDT-Bidirectional-Motor-Switch.html)
