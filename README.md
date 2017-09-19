@@ -1,6 +1,3 @@
-# [Cardboard Circuits](https://microsoft.github.io/cardboard-circuits/)
-[https://microsoft.github.io/cardboard-circuits/](https://microsoft.github.io/cardboard-circuits/)
-
 ## DYI electronic modules for tinkerers
 
 ![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
