@@ -27,3 +27,5 @@ creates a driveable cardboard module!
 ![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-steering.jpg)
 
 ![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-single.jpg)
+
+![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-large-wheel.jpg)
