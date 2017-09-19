@@ -1,6 +1,6 @@
 # Toys
 
-![A console game controller]({{site.baseurl}}/assets/gamecontroller.jpg)
+![A pile of toys]({{site.baseurl}}/assets/toys.jpg)
 
 Deconstruction suggestion for common toys found in thrift shops
 and garage sales.
