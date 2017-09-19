@@ -2,9 +2,9 @@
 
 ## DYI electronic modules for tinkerers
 
-**#cardboardcircuits** are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf), [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf), and [others]({{site.baseurl}}/reference).
-
 ![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
+
+**#cardboardcircuits** are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. Cardboard circuits are inspired from Tinkering Studio [circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf), [toy deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf), and [others]({{site.baseurl}}/reference).
 
 > Sharing your creations on social media? Use the **[#cardboardcircuits](https://twitter.com/search?q=%23cardboardcircuits)** handle!
 
@@ -50,10 +50,10 @@ A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tink
 ## Contents
 
 * [Safety guidelines]({{site.baseurl}}/safety)
-* [Connectors]({{site.baseurl}}/connectors)
-* [Modules]({{site.baseurl}}/modules)
 * [Toys]({{site.baseurl}}/toys)
 * [Projects]({{site.baseurl}}/projects)
+* [Modules]({{site.baseurl}}/modules)
+* [Connectors]({{site.baseurl}}/connectors)
 * [Reference]({{site.baseurl}}/reference)
 
 ## License
