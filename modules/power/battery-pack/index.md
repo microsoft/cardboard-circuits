@@ -18,3 +18,6 @@ prevent burns.
 
 ![A battery pack module]({{site.baseurl}}/assets/batterypower.jpg)
 
+## Gallery
+
+![A 3-AAA battery pack]({{site.baseurl}}/assets/modules/battery-pack.jpg)

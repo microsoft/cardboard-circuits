@@ -26,3 +26,7 @@ Once ready, connect all the wires to the binders.
 Do the same for the other end of the cable and you're done. If available, use orange tape to mark the cable.
 
 ![A cable module]({{site.baseurl}}/assets/cablemodule.jpg)
+
+## Gallery
+
+![A cable module built from an XBox controller]({{site.baseurl}}/assets/modules/cable.jpg)
