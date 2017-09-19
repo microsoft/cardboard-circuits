@@ -1,4 +1,5 @@
-# [Cardboard Circuits](https://microsoft.github.io/cardboard-circuits/) - [https://microsoft.github.io/cardboard-circuits/](https://microsoft.github.io/cardboard-circuits/)
+# [Cardboard Circuits](https://microsoft.github.io/cardboard-circuits/)
+[https://microsoft.github.io/cardboard-circuits/](https://microsoft.github.io/cardboard-circuits/)
 
 ## DYI electronic modules for tinkerers
 
