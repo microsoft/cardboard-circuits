@@ -18,6 +18,12 @@ creates a driveable cardboard module!
 
 ## Gallery
 
-![A DC motor module]({{site.baseurl}}/assets/modules/dc-geared-motor.jpg)
+![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-geared.jpg)
 
-![A DC motor module]({{site.baseurl}}/assets/modules/dc-traction.jpg)
+![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-traction.jpg)
+
+![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-traction-steering.jpg)
+
+![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-steering.jpg)
+
+![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-single.jpg)
