@@ -2,7 +2,7 @@
 
 ![A bidirectional toggle switch]({{site.baseurl}}/assets/modules/bidirectional-toggle-switch.jpg)
 
-A DPDT (Dual Pole Dual Throw) Toggle Switch can be used to create [a simple power inverter](http://www.robotroom.com/DPDT-Bidirectional-Motor-Switch.html) to control a motor forward and backward.
+A [DPDT (Dual Pole Dual Throw) Toggle Switch](https://learn.sparkfun.com/tutorials/switch-basics/poles-and-throws-open-and-closed) can be used to create [a simple power inverter](http://www.robotroom.com/DPDT-Bidirectional-Motor-Switch.html) to control a motor forward and backward.
 
 ## Material
 
