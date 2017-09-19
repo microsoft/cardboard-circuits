@@ -14,3 +14,17 @@ together with a terminal of the resistor
 * Clamp the remaining resitor terminal to a binder clip
 
 ![A LED module]({{site.baseurl}}/assets/ledmodule.jpg)
+
+## Gallery
+
+![A LED module]({{site.baseurl}}/assets/modules/led.jpg)
+
+![A LED module]({{site.baseurl}}/assets/modules/led-headlights.jpg)
+
+![A LED module]({{site.baseurl}}/assets/modules/led-straw.jpg)
+
+![A LED module]({{site.baseurl}}/assets/modules/led-straw-2.jpg)
+
+![A LED module]({{site.baseurl}}/assets/modules/led-straw-3.jpg)
+
+![A LED module]({{site.baseurl}}/assets/modules/led-dual-straw.jpg)
