@@ -15,3 +15,13 @@ Toggle switches have terminals with mounted screws.
 We can either thread recycled cables or use paper clips to connect them to the binder clips.
 
 ![A switch between two circuits]({{site.baseurl}}/assets/threewayswitch.jpg)
+
+## Gallery
+
+![A light switch module]({{site.baseurl}}/assets/modules/switch-knife.jpg)
+
+![A switch module]({{site.baseurl}}/assets/modules/switch-recycled.jpg)
+
+![A switch module]({{site.baseurl}}/assets/modules/switch-recycled-2.jpg)
+
+![A switch module]({{site.baseurl}}/assets/modules/switch-recycled-paper-clip.jpg)

@@ -18,3 +18,12 @@ Add some decoration, and red/pink tape if you have any as this is an _input_ mod
 
 ![Light switch module]({{site.baseurl}}/assets/lightswitchdone.jpg)
 
+## Gallery
+
+![A light switch module]({{site.baseurl}}/assets/modules/switch-flat-toggle.jpg)
+
+![A light switch module]({{site.baseurl}}/assets/modules/switch-single-pole.jpg)
+
+![A light switch module]({{site.baseurl}}/assets/modules/switch-dual-pole.jpg)
+
+![A light switch module]({{site.baseurl}}/assets/modules/switch-tripple-pole.jpg)
