@@ -12,3 +12,4 @@ Cardboard circuits connectors are made of materials easily found in classrooms: 
 The terminals can be connected with cables such as crocodile clips.
 
 * [Crocodile clips]({{site.baseurl}}/terminals/crocodile-clips)
+* [Clothespin clips]({{site.baseurl}}/terminals/clothespin-clips)
