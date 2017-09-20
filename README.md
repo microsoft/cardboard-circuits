@@ -56,7 +56,7 @@ A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tink
     * [Wire]({{site.baseurl}}/modules/wire)
     * [Controller]({{site.baseurl}}/modules/controller)
 * [Modules]({{site.baseurl}}/modules)
-* [Connectors]({{site.baseurl}}/connectors)
+* [Terminals]({{site.baseurl}}/terminals)
 * [Reference]({{site.baseurl}}/reference)
 
 ## License
