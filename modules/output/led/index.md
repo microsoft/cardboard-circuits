@@ -15,6 +15,10 @@ together with a terminal of the resistor
 
 ![A LED module]({{site.baseurl}}/assets/ledmodule.jpg)
 
+## Make
+
+> [Watch the YouTube movie tutorial](https://youtu.be/FoABgptKojk)
+
 ## Gallery
 
 ![A LED module]({{site.baseurl}}/assets/modules/led.jpg)
