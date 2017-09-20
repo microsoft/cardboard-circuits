@@ -1,6 +1,6 @@
 # Bidirectional Toggle Switch
 
-![A bidirectional toggle switch]({{site.baseurl}}/assets/modules/bidirectional-toggle-switch.jpg)
+![A bidirectional toggle switch]({{site.baseurl}}/assets/modules/input/bidirectional-toggle-switch/demo.gif)
 
 A [DPDT (Dual Pole Dual Throw) Toggle Switch](https://learn.sparkfun.com/tutorials/switch-basics/poles-and-throws-open-and-closed) can be used to create [a simple power inverter](http://www.robotroom.com/DPDT-Bidirectional-Motor-Switch.html) to control a motor forward and backward.
 
@@ -37,3 +37,8 @@ A [DPDT (Dual Pole Dual Throw) Toggle Switch](https://learn.sparkfun.com/tutoria
 * Connect all paper clips to binder clips. The center clips and border clips should be connected in separate pairs.
 
 ![A bidirectional toggle switch]({{site.baseurl}}/assets/modules/input/bidirectional-toggle-switch/demo.jpg)
+
+
+## Gallery
+
+![A bidirectional toggle switch]({{site.baseurl}}/assets/modules/bidirectional-toggle-switch.jpg)
