@@ -13,6 +13,8 @@ DIY clothespin connector covered with copper foil tape.
 
 ## Make
 
+> [Watch the YouTube video tutorial](https://youtu.be/jL1RJtT7fp8)
+
 * disconnect the wood arms from the metal spring
 
 ![A clothespin opened up]({{site.baseurl}}/assets/terminals/clothespin-clips/opened.jpg)
