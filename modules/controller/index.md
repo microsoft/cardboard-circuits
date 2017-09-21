@@ -8,12 +8,8 @@ Microcontrollers are tiny computers that receive and generate electrical current
 Some microcontrollers have built-in sensors and buttons which makes even easier to integrate them in your project. 
 We will use microcontrollers supported by https://makecode.com in this guide but there are many others out there.
 
-## Don't fry me
-
-Microcontrollers interact with other electronic devices via their _pins_ using _small_ current. 
-Without proper protection, it is really easy to accidently destroy the board by plugging the wrong cables or pulling too much current.
-Any pin connected to a terminal should be properly protected.
-
-## Micro-controllers
+The module color is **yellow** for controllers. For controllers you can also overlay more colors to denote their capabilities.
 
 * [micro:bit]({{site.baseurl}}/modules/controller/microbit)
+    * [Relay]({{site.baseurl}}/modules/controller/microbit/relay)
+    * [Tone amplifier]({{site.baseurl}}/modules/controller/microbit/tone-amplifier)

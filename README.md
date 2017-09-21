@@ -59,7 +59,7 @@ A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tink
 * [Terminals]({{site.baseurl}}/terminals)
 * [Reference]({{site.baseurl}}/reference)
 
-> Check out your [YouTube videos!](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqNizv3UGg2f8y-OmZVX1D2)
+> Check out our [YouTube videos!](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqNizv3UGg2f8y-OmZVX1D2)
 
 ## License
 
