@@ -1,45 +1,45 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="{{ site.lang | default: " en-US " }}">
 
-{% seo %}
-    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script type="text/javascript">
-      var appInsights=window.appInsights||function(config){
-        function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
-        }({
-            instrumentationKey:"0c054d0f-52fc-4c56-9c80-3f484009c400",
-            isCookieUseDisabled: true,
-            isStorageUseDisabled: true
-        });
-          
-        window.appInsights=appInsights;
-        appInsights.trackPageView();
-    </script>
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">Cardboard Circuits</h1>
-    </section>
+<head>
+  <meta charset="UTF-8"> {% seo %}
+  <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"
+  />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+      function i(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = "AuthenticatedUserContext", h = "start", c = "stop", l = "Track", a = l + "Event", v = l + "Page", y = u.createElement(o), r, f; y.src = config.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"; u.getElementsByTagName(o)[0].parentNode.appendChild(y); try { t.cookie = u.cookie } catch (p) { } for (t.queue = [], t.version = "1.0", r = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; r.length;)i("track" + r.pop()); return i("set" + s), i("clear" + s), i(h + a), i(c + a), i(h + v), i(c + v), i("flush"), config.disableExceptionTracking || (r = "onerror", i("_" + r), f = e[r], e[r] = function (config, i, u, e, o) { var s = f && f(config, i, u, e, o); return s !== !0 && t["_" + r](config, i, u, e, o), s }), t
+    }({
+      instrumentationKey: "0c054d0f-52fc-4c56-9c80-3f484009c400",
+      isCookieUseDisabled: true,
+      isStorageUseDisabled: true
+    });
 
-    <section class="main-content">
-      {{ content }}
-      
-      <footer class="site-footer">
-          <span class="site-footer-credits">
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+  </script>
+</head>
+
+<body>
+  <section class="page-header">
+    <h1 class="project-name">Cardboard Circuits</h1>
+  </section>
+
+  <section class="main-content">
+    {{ content }}
+
+    <footer class="site-footer">
+      <span class="site-footer-credits">
             <a class="item" href="https://makecode.com/privacy" target="_blank" rel="noopener">Privacy &amp; Cookies</a>
           <a class="item" href="https://makecode.com/termsofuse" target="_blank" rel="noopener"> Terms Of Use</a>
           <a class="item" href="https://makecode.com/trademarks" target="_blank" rel="noopener">Trademarks</a>
           <span class="item">© 2017 Microsoft</span>
-        </span>
+      </span>
+    </footer>
+  </section>
+</body>
 
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-      </footer>
-    </section>
-  </body>
 </html>
