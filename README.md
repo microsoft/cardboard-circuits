@@ -37,9 +37,15 @@ Kids can also use the cardboard to write a manual for the component they just bu
 
 ### (Micro-)Controllers welcome
 
-Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers. These modules may even involve breadboards!
+Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers.
 
 ![A radio-controlled micro:bit car]({{site.baseurl}}/assets/microbitradiocar.gif)
+
+### Code your modules!
+
+Learn to code as you make your modules. The [Microsoft MakeCode](https://makecode.com) editors are web-based and beginner friendly.
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_UpAUCLMbibDa" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Acknowledgments
 
