@@ -50,12 +50,12 @@ A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tink
 * [Safety guidelines]({{site.baseurl}}/safety)
 * [Toys]({{site.baseurl}}/toys)
 * [Projects]({{site.baseurl}}/projects)
+* [Modules]({{site.baseurl}}/modules)
     * [Power]({{site.baseurl}}/modules/power)
     * [Input]({{site.baseurl}}/modules/input)
     * [Output]({{site.baseurl}}/modules/output)
     * [Wire]({{site.baseurl}}/modules/wire)
     * [Controller]({{site.baseurl}}/modules/controller)
-* [Modules]({{site.baseurl}}/modules)
 * [Terminals]({{site.baseurl}}/terminals)
 * [Reference]({{site.baseurl}}/reference)
 
