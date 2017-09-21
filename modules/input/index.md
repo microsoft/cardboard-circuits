@@ -11,3 +11,4 @@ Input modules allow open or close circuits, change resistance and more.
 * [Potentiometer]({{site.baseurl}}/modules/input/potentiometer)
 * [LED optoisolator]({{site.baseurl}}/modules/input/led-optoisolator)
 * [MOSFET switch]({{site.baseurl}}/modules/input/mosfet-switch)
+* [Motor speed regulator]({{site.baseurl}}/modules/input/motor-speed-regulator)
