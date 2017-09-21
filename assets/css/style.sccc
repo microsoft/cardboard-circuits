@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.class-header {
+    background-image: url(https://microsoft.github.io/cardboard-circuits/assets/modules.jpg);
+    background-size: cover;
+}
