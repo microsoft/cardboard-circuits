@@ -59,7 +59,7 @@ Students can use any microcontroller to build specialized modules, such as sound
 
 Learn to code as you make your modules. The [Microsoft MakeCode](https://makecode.com) editors are web-based and beginner friendly.
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_XKATCk0TsXXX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+![MakeCode editor]({{site.baseurl}}/assets/makecode.jpg)
 
 ## Open Source On GitHub
 
