@@ -6,7 +6,7 @@
 
 Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)**, **[Toy Take-Apart](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)**, and **[others]({{site.baseurl}}/reference)**.
 
-> Sharing your creations on social media? Use the **[#cardboardcircuits](https://twitter.com/search?q=%23cardboardcircuits)** handle!
+> Sharing your creations on social media? Use **#cardboardcircuit** in [Twitter](https://twitter.com/search?q=%23cardboardcircuit) or [Instagram](https://www.instagram.com/explore/tags/cardboardcircuit/).
 
 * [Safety guidelines]({{site.baseurl}}/safety)
 * [Toys]({{site.baseurl}}/toys)
