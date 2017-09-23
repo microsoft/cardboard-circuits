@@ -8,7 +8,7 @@ Some tiny speakers can be powered directly from a micro-controller, however othe
 
 ## Make
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DwmAobdB1XY" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56%;overflow:hidden;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DwmAobdB1XY" frameborder="0" allowfullscreen></iframe></div>
 
 * Trim out the two cables coming out of the speaker
 * Connect them to binder clip
@@ -21,7 +21,7 @@ The code on the micro:bit generates square tones on pin ``0`` which open and clo
 
 ![A circuit using speaker module]({{site.baseurl}}/assets/modules/output/speaker/circuit.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fi5YdQAJYJI" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56%;overflow:hidden;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fi5YdQAJYJI" frameborder="0" allowfullscreen></iframe></div>
 
 ## Gallery
 

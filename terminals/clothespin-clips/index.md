@@ -13,8 +13,7 @@ DIY clothespin connector covered with copper foil tape.
 
 ## Make
 
-<div style="position:relative;height:0;padding-bottom:56%;overflow:hidden;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jL1RJtT7fp8" frameborder="0" allowfullscreen></iframe>
-</div>
+<div style="position:relative;height:0;padding-bottom:56%;overflow:hidden;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jL1RJtT7fp8" frameborder="0" allowfullscreen></iframe></div>
 
 * disconnect the wood arms from the metal spring
 
