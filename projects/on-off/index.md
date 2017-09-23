@@ -5,12 +5,12 @@ This is a great way to get started: ask the tinkerers to pick a power, input and
 
 ![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
 
-### Modules
+## Modules
 
 * [Power module]({{site.baseurl}}/modules/power)
 * [Input module]({{site.baseurl}}/modules/input)
 * [Output module]({{site.baseurl}}/modules/output)
 
-### Make
+## Make
 
 Connect the power, input and output modules in a circuit. Investigate various combination of input modules with output modules.
