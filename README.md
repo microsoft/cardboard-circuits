@@ -6,6 +6,18 @@
 
 > Sharing your creations on social media? Use the **[#cardboardcircuits](https://twitter.com/search?q=%23cardboardcircuits)** handle!
 
+* [Safety guidelines]({{site.baseurl}}/safety)
+* [Toys]({{site.baseurl}}/toys)
+* [Projects]({{site.baseurl}}/projects)
+* [Modules]({{site.baseurl}}/modules)
+    * [Power]({{site.baseurl}}/modules/power)
+    * [Input]({{site.baseurl}}/modules/input)
+    * [Output]({{site.baseurl}}/modules/output)
+    * [Wire]({{site.baseurl}}/modules/wire)
+    * [Controller]({{site.baseurl}}/modules/controller)
+* [Terminals]({{site.baseurl}}/terminals)
+* [Reference]({{site.baseurl}}/reference)
+
 ### Deconstructing provides Context
 
 As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extracted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interest is peaked and they understand why such component is important.
@@ -54,22 +66,6 @@ Do you want to collaborate on this projects? Send your issues, recomendations or
 ### Acknowledgments
 
 A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle. 
-
-## Contents
-
-* [Safety guidelines]({{site.baseurl}}/safety)
-* [Toys]({{site.baseurl}}/toys)
-* [Projects]({{site.baseurl}}/projects)
-* [Modules]({{site.baseurl}}/modules)
-    * [Power]({{site.baseurl}}/modules/power)
-    * [Input]({{site.baseurl}}/modules/input)
-    * [Output]({{site.baseurl}}/modules/output)
-    * [Wire]({{site.baseurl}}/modules/wire)
-    * [Controller]({{site.baseurl}}/modules/controller)
-* [Terminals]({{site.baseurl}}/terminals)
-* [Reference]({{site.baseurl}}/reference)
-
-> Check out our [YouTube videos!](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqNizv3UGg2f8y-OmZVX1D2)
 
 ## License
 
