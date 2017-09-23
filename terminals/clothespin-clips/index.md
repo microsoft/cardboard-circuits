@@ -29,4 +29,6 @@ DIY clothespin connector covered with copper foil tape.
 
 ![A clothespin clip]({{site.baseurl}}/assets/terminals/clothespin-clips/finished.jpg)
 
-> Extra credits: customize the cables by adding beads...
+* **Extra credits** customize the cables by adding beads...
+
+![A clothespin clip with beads]({{site.baseurl}}/assets/terminals/clothespin-clips/beads.jpg)

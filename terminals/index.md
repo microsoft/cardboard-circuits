@@ -1,6 +1,6 @@
 # Terminals
 
-![Securing connection with hot glue]({{site.baseurl}}/assets/binderclipglue.jpg)
+![Securing connection with hot glue]({{site.baseurl}}/assets/terminals.jpg)
 
 Cardboard circuits connectors are made of materials easily found in classrooms: binder clips, paper clips and others.
 
