@@ -1,36 +1,9 @@
 # Projects
 
-### LED circuit
+Just like **[Tinkering Studio circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)**,
+cardboard circuits should be exploratory in nature and drive by the interrest of the tinkerer. We provide a few inspiring projects to get their inspiration going. Encourage your users to come up with their own!
 
-![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
+> **Educators:** Read the [Educator Addendum](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf) on tips to setup your environment and facilitate sessions.
 
-#### Modules
-
-* Power
-* LED
-* Switch
-
-#### Make
-
-Tinker to connect the 3 modules together.
-
-### Junk Bots
-
-![A junk bot built from a game controller]({{site.baseurl}}/assets/gamecontrollerbot.gif)
-
-#### Modules
-
-* Power
-* Switch
-* vibrating DC motor
-
-#### Materials
-
-* Platic cup
-* Markers
-* Tape
-
-#### Make
-
-Attach the power and vibrating motor modules to a plastic box or cup
-mounted on 3 or 4 markers. Connect the motors to the power and let it run away!
+* [On Off]({{site.baseurl}}/projects/on-off)
+* [Junk Bot]({{site.baseurl}}/projects/junk-bot)
