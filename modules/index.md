@@ -10,6 +10,13 @@ Note: this guide is not meant as a complete reference for the various electronic
 * [Wire]({{site.baseurl}}/modules/wire)
 * [Controller]({{site.baseurl}}/modules/controller)
 
+## Circuit boards
+
+Do you already have Tinker Studio's circuit boards? They are compatible! Moreover, if you have access to a woodshop, tinkerers could also
+build their modules out of woods and nails.
+
+![A set of wooden circuit boards at the Pacific Science Center Tinker Tank]({{site.baseurl}}/assets/circuitboards.jpg)
+
 ### Contribute more modules
 
 There are some many other eletronic components out there and this guide is not meant to be exhaustive.
