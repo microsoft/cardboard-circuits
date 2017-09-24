@@ -11,5 +11,3 @@ We will use microcontrollers supported by https://makecode.com in this guide but
 The module color is **yellow** for controllers. For controllers you can also overlay more colors to denote their capabilities.
 
 * [micro:bit]({{site.baseurl}}/modules/controller/microbit)
-    * [Relay]({{site.baseurl}}/modules/controller/microbit/relay)
-    * [Tone amplifier]({{site.baseurl}}/modules/controller/microbit/tone-amplifier)
