@@ -70,11 +70,11 @@ Thus, coding has a meaning, it allows to build amazing stuff.
 
 ## Open Source On GitHub
 
-Do you want to collaborate on this projects? Send your issues, recomendations or PRs at https://github.com/Microsoft/cardboard-circuits .
+The sources of this web sites are available at [https://github.com/Microsoft/cardboard-circuits](https://github.com/Microsoft/cardboard-circuits).
 
 ## Acknowledgments
 
-A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle. 
+A special thanks for the [Pacific Science Center Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle.
 
 ## License
 
