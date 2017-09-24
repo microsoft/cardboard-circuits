@@ -2,7 +2,7 @@
 
 ![Modules categories]({{site.baseurl}}/assets/modules.jpg)
 
-Note: this guide is not meant as a complete reference for the various electronic components you will encounter. We recommend the [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1) for a complete reference.
+> Note: this guide is not meant as a complete reference for the various electronic components you will encounter. We recommend the [Encyclopedia of Electronic Components vol 1,2,3](https://www.makershed.com/products/make-encyclopedia-of-electronic-components-vol-1) for a complete reference.
 
 * [Power]({{site.baseurl}}/modules/power)
 * [Input]({{site.baseurl}}/modules/input)
@@ -17,7 +17,7 @@ build their modules out of woods and nails.
 
 ![A set of wooden circuit boards at the Pacific Science Center Tinker Tank]({{site.baseurl}}/assets/circuitboards.jpg)
 
-### Contribute more modules
+## Contribute more modules
 
 There are some many other eletronic components out there and this guide is not meant to be exhaustive.
 
