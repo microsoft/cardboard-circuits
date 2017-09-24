@@ -1,4 +1,4 @@
-## DYI electronic modules for tinkerers
+# DYI electronic modules for tinkerers
 
 ![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
 
@@ -20,17 +20,13 @@ Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https:/
 * [Terminals]({{site.baseurl}}/terminals)
 * [Reference]({{site.baseurl}}/reference)
 
-### Deconstructing provides Context
+## From Harvesting Toys To Electronic Modules
 
-As kids source the electronic parts from existing toys and machines, it gives an additional context to those components. A potentiometer is a somewhat boring and un-interresting element at first sight - however if it was extracted from a racing wheel controller, it gives that item a context meaningful to the children. Hence, their interest is peaked and they understand why such component is important.
+Kids start by taking apart and discovering the internals of toys and electronic devices.
+As they extract the parts, they identify and salvage individual electronic components, such as button or motors.
+The electronic components are then rewired into a self-contained module that can be reused in future circuits.
 
 ![Opening up toys to find components]({{site.baseurl}}/assets/toydeconstruction.JPG)
-
-### Built by kids
-
-In this module system, modules are built by the children themselves. Kids will naturally build modules to their taste, modules that have the right size for their hands, modules that have their favorite colors, modules that they want to reuse and can relate to.
-
-![Customized speaked module]({{site.baseurl}}/assets/speakermod.JPG)
 
 ### No soldering required
 
@@ -38,10 +34,16 @@ Connections between modules are made via crocodile clips, binder clips or paper 
 
 ![A switch module built with binder clips]({{site.baseurl}}/assets/switchbare.jpg)
 
-### Build your own modules
+## Built by kids
 
-Using colored masking tape, [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) can
-also be used to categorize the modules: power = blue, input = pink, output = green, wire = orange and (new) controller = yellow.
+Modules are built by the children themselves and they are encourage to customize them. Using cardboard, it is encourage to have modules of all shapes as long as it is usable with the other blocks.
+
+![Customized speaked module]({{site.baseurl}}/assets/speakermod.JPG)
+
+### Sorting modules by (purpose and color)
+
+We follow the [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) to
+categorize the modules: power = blue, input = pink, output = green, wire = orange and (new) controller = yellow.
 
 ![Modules categories]({{site.baseurl}}/assets/modules.jpg)
 
@@ -49,15 +51,20 @@ Kids can also use the cardboard to write a manual for the component they just bu
 
 ![User manual written on the cardboard]({{site.baseurl}}/assets/usbpower2.jpg)
 
-### (Micro-)Controllers welcome
+## Controller module
 
-Students can use any microcontroller to build specialized modules, such as sound generation, servo or motor controllers.
+A controller is a module that receives inputs and generates output. As the complexity of projects increases, the need for controller 
+will quicly arise. Some controller can be built from simple electronic components or by using programmable micro-controllers 
+such as the [micro:bit](https://microbit.org) or [Adafruit Circuit Playground Express](https://makecode.adafruit.org). Micro-controllers can generate sounds, drive motors and servos, or even
+communicate remotely between each others.
 
 ![A radio-controlled micro:bit car]({{site.baseurl}}/assets/microbitradiocar.gif)
 
-### Code your modules!
+## Code your modules!
 
-Learn to code as you make your modules. The [Microsoft MakeCode](https://makecode.com) editors are web-based and beginner friendly.
+The [Microsoft MakeCode](https://makecode.com) editors are block based editor running in most browser and super beginner friendly.
+As the children build new controllers, they will learn on demand the various programming concepts needed to implement. 
+Thus, coding has a meaning, it allows to build amazing stuff.
 
 ![MakeCode editor]({{site.baseurl}}/assets/makecode.jpg)
 
@@ -65,7 +72,7 @@ Learn to code as you make your modules. The [Microsoft MakeCode](https://makecod
 
 Do you want to collaborate on this projects? Send your issues, recomendations or PRs at https://github.com/Microsoft/cardboard-circuits .
 
-### Acknowledgments
+## Acknowledgments
 
 A special thanks for the [Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle. 
 
