@@ -21,3 +21,5 @@
 [Relay switch circuit](http://www.electronics-tutorials.ws/blog/relay-switch-circuit.html)
 
 [Simplest Method to Make a Motor Turn Off, Turn On, Go Forwards, and Go Backwards](http://www.robotroom.com/DPDT-Bidirectional-Motor-Switch.html)
+
+[How to make Magnetic Battery Connectors](https://youtu.be/dI0lRjsIEpU)

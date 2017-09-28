@@ -17,6 +17,8 @@ Magnets should be kept away from young children.
 
 ## Make
 
+<div style="position:relative;height:0;padding-bottom:56%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/d-iHOp5PhJE" frameborder="0" allowfullscreen></iframe></div>
+
 * Get a cooking pan and some cookie sheets. Place the cooking sheet on the pan and sandwitch the trimmed cable between
 the magnets.
 
@@ -35,3 +37,7 @@ the magnets.
 ![A magnet clip]({{site.baseurl}}/assets/terminals/magnet-clips/magnet4.jpg)
 
 * Extra points: add more cardboard around the cable to ensure that it would be ripped away.
+
+## Acknoledgments
+
+This technique was inspired from [How to make Magnetic Battery Connectors](https://youtu.be/dI0lRjsIEpU).
