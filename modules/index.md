@@ -10,6 +10,10 @@
 * [Wire]({{site.baseurl}}/modules/wire)
 * [Controller]({{site.baseurl}}/modules/controller)
 
+The various modules are connected with DIY terminals and cables.
+
+* [Terminals]({{site.baseurl}}/modules/terminals)
+
 ## Circuit boards
 
 Do you already have Tinker Studio's circuit boards? They are compatible! Moreover, if you have access to a woodshop, tinkerers could also
