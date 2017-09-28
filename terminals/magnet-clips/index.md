@@ -2,7 +2,7 @@
 
 Magnet clips are super easy to attach and remove!
 
-![A magnet clip]({{site.baseurl}}/assets/terminals/magnet-clips/demo.jpg)
+![A magnet clip]({{site.baseurl}}/assets/terminals/magnet-clips/demo.gif)
 
 ## Safety first
 
