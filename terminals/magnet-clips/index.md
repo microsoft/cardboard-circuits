@@ -1,4 +1,4 @@
-# Magent clips
+# Magnet clips
 
 Magnet clips are super easy to attach and remove!
 
@@ -26,7 +26,7 @@ the magnets.
 
 * Prepare a small cardboard box
 
-![A mold for the magent connector]({{site.baseurl}}/assets/terminals/magnet-clips/magnet2.jpg)
+![A mold for the magnet connector]({{site.baseurl}}/assets/terminals/magnet-clips/magnet2.jpg)
 
 * Position the cardboard box on top of the cable and magnets. If needed, cut out a small opening for the cable.
 
