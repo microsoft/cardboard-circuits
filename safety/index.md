@@ -10,7 +10,9 @@ Tinkering with electronics is a fun activity that should always be **safe**:
 
 ![Wear protective glasses]({{site.baseurl}}/assets/safetyglasses.jpg)
 
+* **don't open or drill into batteries**
 * **add a fuse to power modules**
-* **don't open batteries**
+
+* **Tools are not toys**
 
 * **NEVER EVER USE WALL POWER** 

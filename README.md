@@ -18,6 +18,7 @@ Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https:/
     * [Wire]({{site.baseurl}}/modules/wire)
     * [Controller]({{site.baseurl}}/modules/controller)
 * [Terminals]({{site.baseurl}}/terminals)
+* [Tools]({{site.baseurl}}/tools)
 * [Reference]({{site.baseurl}}/reference)
 
 ## From Harvesting Toys To Electronic Modules
