@@ -2,7 +2,7 @@
 
 This is a fun and customizable project that can be built from a single [game controller]({{site.baseurl}}/toys/game-controller)!
 
-![A junk bot built from a game controller]({{site.baseurl}}/assets/gamecontrollerbot.gif)
+![A junk bot arena]({{site.baseurl}}/assets/junkbots.gif)
 
 ## Modules
 
@@ -19,4 +19,12 @@ This is a fun and customizable project that can be built from a single [game con
 ## Make
 
 Attach the power and vibrating motor modules to a plastic box or cup
-mounted on 3 or 4 markers. Connect the motors to the power and let it run away!
+mounted on 1 or more markers. Connect the motors to the power and let it run away!
+
+![A junk bot built from a game controller]({{site.baseurl}}/assets/gamecontrollerbot.gif)
+
+## Arena
+
+Cover an entire table with paper and let the bots roam around.
+
+![A junk bot arena]({{site.baseurl}}/assets/junkbotsarena.jpg)
