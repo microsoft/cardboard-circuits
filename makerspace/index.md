@@ -3,14 +3,14 @@
 Cardboard circuits is inherently a team activity. Some of the tasks are better done with more than 2 hands!
 As usual, these are recommendations, do what works for you.
 
+![Colored tables]({{site.baseurl}}/assets/makerspacetables.jpg)
+
 ## Tables and Teams
 
 We recommend to split the students in teams and allocate each table to a table.
 The team is responsible for maintaining the working order of the table, cleaning and maintaining its toolbox.
 
 ## Color coded tables and tools
-
-![Colored tables]({{site.baseurl}}/assets/makerspacetables.jpg)
 
 All tools look alike and students tend to roam around and leave them. To avoid "it's my tool, not it's my tool" situations, we strongly recommend to color code them.
 
