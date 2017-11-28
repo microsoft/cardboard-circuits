@@ -10,6 +10,8 @@ The team is responsible for maintaining the working order of the table, cleaning
 
 ## Color coded tables and tools
 
+![Colored tables]({{site.baseurl}}/assets/makerspacetables.jpg)
+
 All tools look alike and students tend to roam around and leave them. To avoid "it's my tool, not it's my tool" situations, we strongly recommend to color code them.
 
 Assign a color to each team and use colored masking tape to mark their table. Then have the students mark all their tools with tape as well. That way, at the end of a session, it is very easy to sort out all the tools that have been spread around the classroom.
