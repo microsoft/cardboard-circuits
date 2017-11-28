@@ -11,6 +11,8 @@ Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https:/
 * [Safety guidelines]({{site.baseurl}}/safety)
 * [Toys]({{site.baseurl}}/toys)
 * [Projects]({{site.baseurl}}/projects)
+    * [On Off]({{site.baseurl}}/projects/on-off)
+    * [Junk Bot]({{site.baseurl}}/projects/junk-bot)
 * [Modules]({{site.baseurl}}/modules)
     * [Power]({{site.baseurl}}/modules/power)
     * [Input]({{site.baseurl}}/modules/input)
