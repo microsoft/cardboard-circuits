@@ -1,4 +1,4 @@
-# DYI electronic modules for tinkerers
+# DIY electronic modules for tinkerers
 
 ![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
 
