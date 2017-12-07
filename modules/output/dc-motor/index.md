@@ -7,11 +7,6 @@ They can be controlled to turn forward or backward at various speed.
 
 ![A DC motor mounted on cardboard]({{site.baseurl}}/assets/mounteddcmotor.jpg)
 
-* removing the car controller and rewiring the motors
-creates a driveable cardboard module!
-
-![A rewired toy RC car module]({{site.baseurl}}/assets/rccarmodule.jpg)
-
 ## Gallery
 
 ![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-geared.jpg)

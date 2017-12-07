@@ -8,5 +8,6 @@ An output module takes an electrical current and generates movement, light or so
 * [DC Motor]({{site.baseurl}}/modules/output/dc-motor)
 * [DC vibrating motor]({{site.baseurl}}/modules/output/dc-vibrating-motor)
 * [Drive train]({{site.baseurl}}/modules/output/drive-train)
+* [Chassis]({{site.baseurl}}/modules/output/chassis)
 * [Speaker]({{site.baseurl}}/modules/output/speaker)
 * [Solenoid]({{site.baseurl}}/modules/output/solenoid)
