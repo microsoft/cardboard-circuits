@@ -59,6 +59,12 @@ Kids can also use the cardboard to write a manual for the component they just bu
 
 ![User manual written on the cardboard]({{site.baseurl}}/assets/usbpower2.jpg)
 
+## Cardboard robots
+
+From recycled wheels and switches, use cardboard to build your own personalized robots.
+
+![A sled in motion]({{site.baseurl}}/assets/sled.gif)
+
 ## Controller module
 
 A controller is a module that receives inputs and generates output. As the complexity of projects increases, the need for controller 
