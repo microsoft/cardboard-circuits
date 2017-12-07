@@ -23,3 +23,7 @@ Cut holes so that the wheel touch the ground. Glue/tape the drive train to the c
 Connect all modules and let it go!
 
 ![A sled in motion]({{site.baseurl}}/assets/sledswitch.gif)
+
+## Remote controlled
+
+Use the cable to make this robot remote controlled!
