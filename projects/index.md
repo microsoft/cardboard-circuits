@@ -9,6 +9,7 @@ cardboard circuits should be exploratory in nature and drive by the interrest of
 
 * [On Off]({{site.baseurl}}/projects/on-off)
 * [Junk Bot]({{site.baseurl}}/projects/junk-bot)
+* [Sled]({{site.baseurl}}/projects/sled)
 * Cable Controlled Car
 * Remote Controlled Car
 * Light activated Box

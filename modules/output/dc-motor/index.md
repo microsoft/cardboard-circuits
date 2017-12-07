@@ -7,10 +7,6 @@ They can be controlled to turn forward or backward at various speed.
 
 ![A DC motor mounted on cardboard]({{site.baseurl}}/assets/mounteddcmotor.jpg)
 
-* the front drive train of a RC car hosts 2 DC motors (1 for traction, 1 for steering)
-
-![A recycled drive train with DC motors]({{site.baseurl}}/assets/carmotor.jpg)
-
 * removing the car controller and rewiring the motors
 creates a driveable cardboard module!
 
@@ -19,10 +15,6 @@ creates a driveable cardboard module!
 ## Gallery
 
 ![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-geared.jpg)
-
-![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-traction.jpg)
-
-![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-traction-steering.jpg)
 
 ![A DC motor module]({{site.baseurl}}/assets/modules/dc-motor-steering.jpg)
 
