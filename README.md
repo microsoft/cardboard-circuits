@@ -1,32 +1,32 @@
 # DIY electronic modules for tinkerers
 
-![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
+![A LED dimmer circuit](assets/leddimmer.gif)
 
 **#cardboardcircuits** are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. 
 
-Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)**, **[Toy Take-Apart](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)**, and **[others]({{site.baseurl}}/reference)**.
+Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)**, **[Toy Take-Apart](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)**, and **[others](reference/index.md)**.
 
 > Sharing your creations on social media? Use **#cardboardcircuit** in [Twitter](https://twitter.com/search?q=%23cardboardcircuit) or [Instagram](https://www.instagram.com/explore/tags/cardboardcircuit/).
 
-* [Safety guidelines]({{site.baseurl}}/safety)
-* [Toys]({{site.baseurl}}/toys)
-    * [Game controller]({{site.baseurl}}/toys/game-controller)
-    * [RC race car]({{site.baseurl}}/toys/rc-race-car)
-    * [RC dirt car]({{site.baseurl}}/toys/rc-dirt-car)
-* [Projects]({{site.baseurl}}/projects)
-    * [On Off]({{site.baseurl}}/projects/on-off)
-    * [Junk Bot]({{site.baseurl}}/projects/junk-bot)
-    * [Sled]({{site.baseurl}}/projects/sled)
-* [Modules]({{site.baseurl}}/modules)
-    * [Power]({{site.baseurl}}/modules/power)
-    * [Input]({{site.baseurl}}/modules/input)
-    * [Output]({{site.baseurl}}/modules/output)
-    * [Wire]({{site.baseurl}}/modules/wire)
-    * [Controller]({{site.baseurl}}/modules/controller)
-* [Terminals]({{site.baseurl}}/terminals)
-* [Makerspace]({{site.baseurl}}/makerspace)
-* [Tools]({{site.baseurl}}/tools)
-* [Reference]({{site.baseurl}}/reference)
+* [Safety guidelines](safety/index.md)
+* [Toys](toys/index.md)
+    * [Game controller](toys/game-controller/index.md)
+    * [RC race car](toys/rc-race-car/index.md)
+    * [RC dirt car](toys/rc-dirt-car/index.md)
+* [Projects](projects/index.md)
+    * [On Off](projects/on-off/index.md)
+    * [Junk Bot](projects/junk-bot/index.md)
+    * [Sled](projects/sled/index.md)
+* [Modules](modules/index.md)
+    * [Power](modules/power/index.md)
+    * [Input](modules/input/index.md)
+    * [Output](modules/output/index.md)
+    * [Wire](modules/wire/index.md)
+    * [Controller](modules/controller/index.md)
+* [Terminals](terminals/index.md)
+* [Makerspace](makerspace/index.md)
+* [Tools](tools/index.md)
+* [Reference](reference/index.md)
 
 ## From Harvesting Toys To Electronic Modules
 
@@ -34,36 +34,36 @@ Kids start by taking apart and discovering the internals of toys and electronic 
 As they extract the parts, they identify and salvage individual electronic components, such as button or motors.
 The electronic components are then rewired into a self-contained module that can be reused in future circuits.
 
-![Opening up toys to find components]({{site.baseurl}}/assets/toydeconstruction.JPG)
+![Opening up toys to find components](assets/toydeconstruction.JPG)
 
 ### No soldering required
 
 Connections between modules are made via crocodile clips, binder clips or paper clips. Using common classroom materials, kids are able to manufacture their own modules -- without soldering. Just like Circuit Boards, modules can be connected together with tape, elastics and others.
 
-![A switch module built with binder clips]({{site.baseurl}}/assets/switchbare.jpg)
+![A switch module built with binder clips](assets/switchbare.jpg)
 
 ## Built by kids
 
 Modules are built by the children themselves and they are encourage to customize them. Using cardboard, it is encourage to have modules of all shapes as long as it is usable with the other blocks.
 
-![Customized speaked module]({{site.baseurl}}/assets/speakermod.JPG)
+![Customized speaked module](assets/speakermod.JPG)
 
 ### Sorting modules by (purpose and color)
 
 We follow the [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) to
 categorize the modules: power = blue, input = pink, output = green, wire = orange and (new) controller = yellow.
 
-![Modules categories]({{site.baseurl}}/assets/modules.jpg)
+![Modules categories](assets/modules.jpg)
 
 Kids can also use the cardboard to write a manual for the component they just built.
 
-![User manual written on the cardboard]({{site.baseurl}}/assets/usbpower2.jpg)
+![User manual written on the cardboard](assets/usbpower2.jpg)
 
 ## Cardboard robots
 
 From recycled wheels and switches, use cardboard to build your own personalized robots.
 
-![A sled in motion]({{site.baseurl}}/assets/sled.gif)
+![A sled in motion](assets/sled.gif)
 
 ## Controller module
 
@@ -72,7 +72,7 @@ will quicly arise. Some controller can be built from simple electronic component
 such as the [micro:bit](https://microbit.org) or [Adafruit Circuit Playground Express](https://makecode.adafruit.org). Micro-controllers can generate sounds, drive motors and servos, or even
 communicate remotely between each others.
 
-![A radio-controlled micro:bit car]({{site.baseurl}}/assets/microbitradiocar.gif)
+![A radio-controlled micro:bit car](assets/microbitradiocar.gif)
 
 ## Code your modules!
 
@@ -80,7 +80,7 @@ The [Microsoft MakeCode](https://makecode.com) editors are block based editor ru
 As the children build new controllers, they will learn on demand the various programming concepts needed to implement. 
 Thus, coding has a meaning, it allows to build amazing stuff.
 
-![MakeCode editor]({{site.baseurl}}/assets/makecode.jpg)
+![MakeCode editor](assets/makecode.jpg)
 
 ## Open Source On GitHub
 
