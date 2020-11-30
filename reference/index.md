@@ -1,8 +1,8 @@
 ## Reference
 
-[Tinkering Studio Circuit Boards](https://tinkering.exploratorium.edu/sites/default/files/Instructions/circuit_boards.pdf)
+[Tinkering Studio Circuit Boards](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/circuit_boards.pdf)
 
-[Tinkering Studio Toy Deconstruction](https://tinkering.exploratorium.edu/sites/default/files/Instructions/toy_take_apart_0.pdf)
+[Tinkering Studio Toy Deconstruction](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/toy_take_apart_0.pdf)
 
 [Pacific Science Center Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/)
 
